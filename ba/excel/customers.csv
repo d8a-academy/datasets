@@ -1,0 +1,81 @@
+CustomerID;Name;Segment;Country
+1;Sophie Brown;Consumer ;Australia
+2;John Wilson;mid-market;Mexico
+3;Maria Smith;consumer ;Italy
+4;Paul Leclerc;SMB;Australia
+5;Paul Dupont;enterprise;Netherlands
+6;Sophie Johnson;Consumer ;USA
+7;Carlos Muller;Consumer;Netherlands
+8;Maria Martin;Consumer;Germany
+9;Maria Smith;enterprise;Australia
+10;Sophie Brown;Mid-Market;France
+11;Paul Martin;Mid-Market;Spain
+12;Anna Nilsson;Consumer;Spain
+13;Nora Brown;Smb;Italy
+14;Lucas Muller;Consumer ;Germany
+15;James Brown;mid-market;France
+16;Anna Dupont;Mid-Market;Brazil
+17;Sophie Tanaka;Smb;Australia
+18;Sarah Johnson;Enterprise;Germany
+19;Lucas Chen;Consumer ;Italy
+20;John Smith;SMB;USA
+21;Anna Johnson;Consumer ;Australia
+22;Maria Johnson;Mid-Market;Brazil
+23;Lucas Tanaka;consumer ;Mexico
+24;Sophie Brown;Consumer ;USA
+25;Emma Johnson;consumer ;Netherlands
+26;Paul Rodriguez;enterprise;Spain
+27;Nora Muller;Mid-Market;Japan
+28;Emma Garcia;enterprise;Mexico
+29;Julia Johnson;Enterprise;France
+30;Anna Dupont;smb;Brazil
+31;Pierre Rossi;Smb;Germany
+32;Marie Nilsson;consumer ;Brazil
+33;Emma Smith;mid-market;Mexico
+34;Anna Garcia;Mid-Market;Germany
+35;Pierre Smith;mid-market;Netherlands
+36;Maria Wilson;Enterprise;Germany
+37;John Rodriguez;enterprise;USA
+38;Carlos Wilson;Mid-Market;Australia
+39;Lisa Chen;Mid-Market;France
+40;Nora Chen;Smb;UK
+41;Pierre Smith;Mid-Market;Australia
+42;James Nilsson;Consumer ;Italy
+43;Nora Rodriguez;SMB;Germany
+44;Carlos Dupont;mid-market;Netherlands
+45;Sophie Garcia;consumer ;USA
+46;Emma Leclerc;Consumer;Canada
+47;Anna Rossi;mid-market;Italy
+48;Lucas Rossi;mid-market;Australia
+49;Nora Muller;smb;USA
+50;Carlos Tanaka;ENTERPRISE;Italy
+51;Maria Muller;Enterprise;Australia
+52;James Garcia;ENTERPRISE;Australia
+53;David Rodriguez;Consumer ;Netherlands
+54;Nora Tanaka;SMB;France
+55;Sophie Martin;Smb;Canada
+56;Emma Dupont;Consumer;USA
+57;Anna Johnson;Mid-Market;Germany
+58;Nora Tanaka;smb;Canada
+59;Sophie Nilsson;enterprise;Japan
+60;John Chen;ENTERPRISE;Germany
+61;Julia Nilsson;smb;Brazil
+62;Carlos Nilsson;Mid-Market;Germany
+63;John Garcia;Smb;Brazil
+64;Lucas Muller;Consumer;Netherlands
+65;Marie Chen;Smb;France
+66;Pierre Wilson;smb;Australia
+67;Sarah Leclerc;Smb;Germany
+68;David Smith;mid-market;Canada
+69;Lisa Chen;enterprise;Spain
+70;Sarah Rodriguez;Mid-Market;Australia
+71;Marie Tanaka;Mid-Market;Brazil
+72;Nora Rodriguez;mid-market;Mexico
+73;Marie Smith;Consumer;Netherlands
+74;John Rossi;mid-market;Netherlands
+75;David Martin;enterprise;Canada
+76;Lisa Martin;mid-market;Mexico
+77;Pierre Brown;mid-market;Japan
+78;Lisa Nilsson;SMB;France
+79;Marie Martin;smb;Canada
+80;Anna Muller;consumer ;Germany

@@ -1,0 +1,1213 @@
+OrderID;OrderDate;CustomerID;Product;Quantity;UnitPrice;Status;Channel
+202400802;2024-03-31;46;USB-C Hub;9;€560.63;cancelled;Phone Order
+202400678;2024-04-13;67;Headset;4;€206.24;shipped;mobile
+202400044;2024-02-03;65;Laptop Pro;1;€800.28;completed;mobile
+202400991;2024-09-07;5;4K Monitor;8;€1,114.74;completed;web
+202400071;2024-06-19;68;Webcam HD;13;€1,667.93;completed;Phone Order
+202400705;2024-11-30;10;Tablet;12;€1,157.47;completed;In-Store
+202400909;2024-10-18;7;Desk Lamp;8;€992.42;completed;mobile
+202400211;2024-08-04;50;Standing Desk;11;€1,252.65;shipped;mobile
+202400600;2024-03-31;3;Desk Lamp;2;€48.20;completed;mobile
+202400307;2024-10-15;42;Headset;3;€344.54;Pending ;Phone Order
+202400479;2024-07-14;57; Headset ;12;€560.91;completed;web
+202400949;2024-03-23;29;Wireless Mouse;3;€1,916.84;Completed;mobile
+202400876;2024-08-18;8;Docking Station;1;€340.25;refunded;mobile
+202400598;2024-04-16;63;Docking Station;1;€1,121.41;refunded;web
+202401070;2024-06-08;42;Power Bank;10;€692.36;pending;mobile
+202401163;2024-03-21;6;Docking Station;7;€232.62;completed;mobile
+202400232;2024-06-12;54;Webcam HD;2;€398.51;pending;mobile
+202400839;2024-01-31;11;Standing Desk;3;€1,730.22;completed;web
+202400372;2024-06-08;6;Laptop Pro;6;€1,414.67;completed;web
+202400714;2024-01-30;3;Tablet;5;€670.18;completed;mobile
+202400426;2024-10-05;59;Headset;6;€428.77;completed;web
+202401165;2024-08-20;80;Mechanical Keyboard;6;€275.35;pending;mobile
+202400782;2024-09-01;63; Smartphone ;10;€69.79;completed;mobile
+202401153;2024-08-28;22; Power Bank ;5;€488.08;shipped;web
+202400295;2024-01-22;71;Headset;4;€468.44;shipped;mobile
+202400452;2024-09-13;48;Wireless Mouse;6;€1,177.81;completed;web
+202400590;2024-12-05;27;Tablet;14;€806.29;shipped;mobile
+202400411;2024-02-13;75; Smartphone ;3;€1,567.12;completed;mobile
+202400586;2024-08-02;55;Headset;9;€391.07;completed;In-Store
+202400950;2024-02-07;46;Wireless Mouse;2;€1,619.80;completed;web
+202400694;2024-07-05;54;Smartphone;6;€1,446.15;completed;web
+202400579;2024-02-25;61;Headset;13;€405.42;cancelled;web
+202401159;2024-05-31;7;Tablet;6;€1,912.72;cancelled;mobile
+202400889;2024-06-22;54;Office Chair;11;€1,739.06;pending;mobile
+202400891;2024-09-11;58;Cable Kit;9;€1,838.32;pending;mobile
+202400197;2024-03-08;48;Headset;7;€1,491.90;pending;mobile
+202400744;2024-08-16;38; Power Bank ;4;€1,971.00;Completed;mobile
+202400366;2024-05-12;48;Cable Kit;5;€1,736.98;cancelled;mobile
+202400124;2024-04-17;70;USB-C Hub;8;€1,509.84;completed;web
+202401038;2024-10-09;21;Smartphone;4;€790.09;pending;web
+202400045;2024-10-11;50;Desk Lamp;1;€343.63;pending;In-Store
+202400757;2024-09-16;42;USB-C Hub;2;€581.66;Completed;web
+202400680;2024-09-09;34;Webcam HD;2;€1,496.94;cancelled;mobile
+202400936;2024-09-09;32;Tablet;4;€44.92;completed;mobile
+202401181;2024-02-27;61;Smartphone;4;€871.42;completed;web
+202400440;2024-06-16;26; Cable Kit ;14;€126.17;pending;web
+202401016;2024-08-31;26;Standing Desk;4;€480.21;completed;mobile
+202400108;2024-03-02;22;Office Chair;-2;€130.96;completed;In-Store
+202400082;2024-06-07;17;USB-C Hub;13;€979.16;completed;Phone Order
+;;;;;;;
+202401199;2024-08-10;60;Laptop Pro;9;€1,826.64;Completed;In-Store
+202400171;2024-04-13;74;USB-C Hub;8;€132.91;pending;Phone Order
+202400539;2024-04-15;39;Tablet;8;€1,424.24;completed;In-Store
+;;;;;;;
+202400998;2024-07-24;76;Office Chair;3;€676.49;Completed;In-Store
+202400993;2024-05-18;27;Power Bank;14;€408.05;shipped;Phone Order
+202400278;2024-04-16;55;Smartphone;-2;€396.12;completed;web
+202400077;2024-09-27;50; Desk Lamp ;14;€1,369.54;shipped;In-Store
+202400079;2024-08-06;39;Mechanical Keyboard;8;€779.32;completed;mobile
+202400129;2024-01-23;52;Smartphone;13;€1,793.31;shipped;web
+202400430;2024-07-09;20;Laptop Pro;6;€496.58;completed;In-Store
+202400050;2024-07-11;43;Docking Station;11;€1,882.81;shipped;Phone Order
+202400345;2024-09-06;22;Mechanical Keyboard;4;€1,350.25;completed;mobile
+202400763;2024-01-19;2;Cable Kit;2;€1,482.51;completed;mobile
+202401126;2024-10-31;27;Power Bank;9;€1,732.05;Completed;mobile
+202400814;2024-05-07;23;Webcam HD;7;€1,531.66;completed;web
+202400245;2024-11-22;64;4K Monitor;1;€446.21;completed;web
+202400568;2024-05-09;13;Headset;7;€576.43;completed;web
+202401114;2024-11-21;42;Wireless Mouse;8;€1,887.00;completed;web
+202400906;2024-05-22;27;Office Chair;10;€1,290.95;completed;Phone Order
+202400383;2024-11-08;3;Mechanical Keyboard;9;€1,627.41;refunded;web
+202400024;2024-12-30;50;Mechanical Keyboard;4;€1,829.01;completed;web
+202400529;2024-05-25;57;Headset;10;€840.64;pending;web
+202400966;2024-04-20;27;Webcam HD;6;€1,666.73;completed;web
+202400059;2024-06-01;66;Power Bank;12;€890.72;pending;Phone Order
+202401034;2024-12-21;6;Smartphone;1;€82.60;completed;Phone Order
+202400918;2024-01-14;79;Headset;8;€92.14;Completed;web
+202400324;2024-01-02;80;Smartphone;10;€996.52;Completed;Phone Order
+202400356;2024-02-04;37;4K Monitor;5;€200.16;refunded;mobile
+202401015;2024-08-14;64;USB-C Hub;12;€1,296.63;completed;web
+202400661;2024-09-28;45;Desk Lamp;13;€625.16;completed;Phone Order
+202400293;2024-03-25;58;Cable Kit;9;€646.55;completed;web
+202400333;2024-06-12;20;Tablet;7;€1,249.41;completed;In-Store
+202401010;2024-02-18;3;Mechanical Keyboard;14;€1,124.03;Completed;mobile
+202400537;2024-09-30;77;4K Monitor;4;€1,244.82;pending;mobile
+202400114;2024-04-26;70;Tablet;6;€466.52;cancelled;web
+202400148;2024-08-15;30;Wireless Mouse;7;€872.41;cancelled;web
+202400102;2024-01-10;64;Headset;6;€727.46;pending;web
+202400052;2024-09-01;66; Office Chair ;12;€315.31;shipped;web
+202400309;2024-06-14;41; Power Bank ;8;€1,086.02;completed;web
+202400668;2024-02-08;4;Office Chair;11;€1,013.23;completed;mobile
+202400416;2024-12-11;3;USB-C Hub;2;€737.34;pending;web
+202400391;2024-09-08;8;Docking Station;8;€1,965.98;completed;In-Store
+202400322;2024-09-03;73;Docking Station;6;€1,002.47;pending;web
+202400653;2024-04-02;45; Mechanical Keyboard ;12;€1,008.54;SHIPPED;Phone Order
+202400241;2024-03-23;45;Cable Kit;2;€1,017.75;Completed;web
+202400234;2024-01-30;65;Standing Desk;12;€1,076.30;completed;web
+202400055;2024-06-30;50; Laptop Pro ;10;€51.18;completed;Phone Order
+202401176;2024-02-10;76;USB-C Hub;5;€1,772.27;pending;mobile
+202400199;2024-11-02;45;Cable Kit;3;€394.97;Completed;Phone Order
+202400110;2024-11-18;53;Power Bank;5;€1,074.02;completed;web
+202400057;2024-08-19;28;Webcam HD;8;€525.78;completed;Phone Order
+202400087;2024-07-29;49;Standing Desk;3;€841.42;completed;mobile
+202400707;2024-03-18;15;Wireless Mouse;4;€1,394.28;completed;web
+202401023;2024-01-04;61; 4K Monitor ;8;€1,741.53;SHIPPED;mobile
+202400544;2024-10-20;21; 4K Monitor ;12;€1,623.79;pending;In-Store
+202401175;2024-05-02;20;Mechanical Keyboard;4;€1,716.04;refunded;mobile
+202400742;2024-02-14;48;Desk Lamp;4;€943.67;completed;mobile
+202400915;2024-04-12;2;Mechanical Keyboard;3;€1,143.66;completed;Phone Order
+202400874;2024-07-31;73;Laptop Pro;14;€1,591.74;Completed;mobile
+202401147;2024-03-22;64;Power Bank;13;€155.71;completed;web
+202400658;2024-10-25;53;Mechanical Keyboard;10;€1,963.03;completed;mobile
+202401020;2024-04-24;15;Smartphone;3;€1,053.80;completed;web
+202400555;2024-04-12;49;Docking Station;13;€1,624.64;Completed;In-Store
+202400210;2024-06-19;52;Webcam HD;2;€307.71;completed;web
+202400635;2024-10-06;18;Office Chair;14;€334.30;Completed;web
+202400631;2024-08-21;45;Desk Lamp;10;€1,368.72;completed;mobile
+202400410;2024-10-06;15;Tablet;3;€1,895.85;completed;web
+202401032;2024-08-26;64;Tablet;14;€1,955.61;completed;mobile
+202400644;2024-05-29;69;Webcam HD;3;€1,355.03;SHIPPED;web
+202400466;2024-07-18;50;Wireless Mouse;5;€1,684.23;cancelled;mobile
+202400406;2024-11-11;26;Mechanical Keyboard;1;€140.91;completed;mobile
+202400310;2024-12-23;25;Desk Lamp;14;€950.16;completed;mobile
+202400454;2024-11-26;34;Cable Kit;7;€1,081.61;completed;web
+202400209;2024-01-19;62;4K Monitor;8;€1,069.81;Completed;web
+202400737;2024-05-22;70;Cable Kit;5;€1,564.81;completed;web
+202400244;2024-02-05;76;Mechanical Keyboard;7;€1,505.95;completed;mobile
+202400156;2024-02-27;12; 4K Monitor ;1;€325.00;pending;web
+202401115;2024-11-03;12;Smartphone;1;€37.77;completed;In-Store
+202401043;2024-11-13;42;Tablet;2;€1,866.56;completed;In-Store
+202400835;2024-09-19;75;Office Chair;7;€490.51;completed;mobile
+202400276;2024-04-14;23;Cable Kit;13;€253.02;completed;In-Store
+202400614;2024-11-20;47; Standing Desk ;13;€1,704.57;shipped;In-Store
+202400784;2024-01-15;20;Standing Desk;12;€422.90;completed;web
+202400382;2024-07-27;20;Cable Kit;3;€1,760.47;shipped;web
+202400693;2024-02-23;16; Standing Desk ;1;€462.47;completed;Phone Order
+202400989;2024-08-19;5;Headset;11;€1,493.52;completed;web
+202400790;2024-05-24;25;Cable Kit;13;€385.40;refunded;web
+202400200;2024-07-13;12;Laptop Pro;8;€1,930.25;refunded;In-Store
+202400491;2024-03-10;19;Smartphone;5;€402.46;shipped;mobile
+202400550;2024-12-05;76;Tablet;13;€1,497.65;Completed;web
+202400463;2024-07-25;16;Power Bank;5;€1,159.65;completed;Phone Order
+202400731;2024-04-07;2;Power Bank;1;€1,116.61;completed;mobile
+202401156;2024-06-28;7;Cable Kit;5;€1,396.12;completed;Phone Order
+202400980;2024-06-23;55;Webcam HD;13;€1,556.77;shipped;web
+202400935;2024-12-02;71;Smartphone;5;€1,553.90;completed;In-Store
+202400462;2024-11-03;43;Power Bank;2;€1,685.62;completed;web
+202400546;2024-12-12;36;Desk Lamp;10;€598.75;Completed;mobile
+202400297;2024-12-15;55; Laptop Pro ;4;€345.92;shipped;web
+202400712;2024-12-15;29;4K Monitor;8;€526.93;completed;In-Store
+202400433;2024-04-06;76;Wireless Mouse;7;€1,227.03;pending;mobile
+202400260;2024-05-30;50;Standing Desk;4;€1,566.68;pending;mobile
+202400434;2024-12-20;39;USB-C Hub;7;€938.50;Pending ;web
+202400332;2024-04-25;14;Power Bank;1;€709.38;pending;web
+202400495;2024-10-13;22;Power Bank;8;€1,331.61;completed;Phone Order
+202400169;2024-02-13;67;Tablet;2;€770.32;completed;Phone Order
+202400136;2024-07-21;66;USB-C Hub;5;€1,136.39;completed;web
+202400535;2024-05-09;40;Laptop Pro;4;€663.59;SHIPPED;In-Store
+202400429;2024-01-04;72;Mechanical Keyboard;10;€979.48;completed;web
+202400329;2024-05-11;49;Office Chair;11;€133.15;completed;mobile
+;;;;;;;
+202400159;2024-06-01;37;Wireless Mouse;1;€1,402.41;pending;web
+202400141;2024-05-20;28;Cable Kit;14;€1,718.65;pending;In-Store
+202400869;2024-07-04;61; Power Bank ;6;€596.49;SHIPPED;web
+202400315;2024-02-13;67;Power Bank;10;€545.49;completed;web
+202400175;2024-12-02;31;Smartphone;4;€589.23;completed;web
+202401103;2024-04-25;54;Standing Desk;7;€635.48;Pending ;mobile
+202400219;2024-03-25;80;Mechanical Keyboard;5;€909.68;completed;Phone Order
+202400221;2024-01-21;11;Office Chair;1;€1,441.66;Completed;web
+202400266;2024-10-22;28;4K Monitor;12;€1,708.85;completed;web
+202400867;2024-05-23;14;Headset;5;€1,343.53;SHIPPED;mobile
+202400443;2024-10-11;29;Laptop Pro;1;€943.52;completed;web
+202400558;2024-06-12;50;Office Chair;4;€1,223.66;shipped;web
+202400185;2024-06-25;67;Standing Desk;7;€279.55;refunded;web
+202400552;2024-01-26;70; Power Bank ;7;€708.78;Pending ;mobile
+202400946;2024-04-14;14;USB-C Hub;8;€864.28;refunded;web
+202400902;2024-01-05;3;USB-C Hub;3;€1,081.02;completed;web
+202400164;2024-08-29;39;Mechanical Keyboard;4;€1,620.34;pending;mobile
+202400573;2024-04-06;27; Laptop Pro ;6;€1,268.44;completed;In-Store
+202400951;2024-05-24;63;Power Bank;12;€1,242.40;Completed;web
+202400157;2024-12-17;71;Standing Desk;13;€847.25;completed;web
+202400886;2024-11-25;54;Headset;9;€835.51;completed;web
+202400507;2024-06-14;68; 4K Monitor ;9;€1,891.21;Completed;Phone Order
+202401143;2024-09-27;5;Laptop Pro;2;€1,076.07;shipped;web
+202400926;2024-06-17;17;Smartphone;14;€96.02;shipped;Phone Order
+202401036;2024-07-13;46; 4K Monitor ;14;€830.68;Completed;web
+;;;;;;;
+202400291;2024-10-27;14;4K Monitor;8;€737.91;pending;web
+202400683;2024-04-18;44;Power Bank;1;€770.69;shipped;mobile
+202400999;2024-12-05;32;Tablet;5;€1,270.40;shipped;mobile
+202400765;2024-11-26;63;Tablet;14;€316.67;completed;web
+202400193;2024-02-19;38;Laptop Pro;10;€1,208.86;completed;web
+202400528;2024-06-20;61;Smartphone;12;€715.48;completed;mobile
+202400439;2024-12-14;32;Desk Lamp;7;€1,244.27;completed;mobile
+202400287;2024-01-12;15;Laptop Pro;11;€216.43;completed;Phone Order
+202400428;2024-08-23;18;Laptop Pro;14;€1,655.94;pending;In-Store
+202400977;2024-03-16;41;Cable Kit;2;€1,628.15;Completed;web
+202400574;2024-05-19;73;Cable Kit;9;€750.59;Completed;mobile
+202400533;2024-01-20;16;Headset;8;€1,464.39;pending;web
+202400753;2024-12-20;28;Laptop Pro;13;€1,009.72;completed;mobile
+202400097;2024-01-15;5;Tablet;11;€753.24;completed;mobile
+202401129;2024-10-01;49;Webcam HD;4;€609.42;cancelled;web
+202400837;2024-09-25;13;Tablet;10;€163.50;shipped;Phone Order
+202400179;2024-07-31;52;4K Monitor;9;€704.32;Completed;web
+202400032;2024-10-31;49;Cable Kit;8;€557.84;completed;mobile
+202400728;2024-01-29;62; Mechanical Keyboard ;7;€1,771.91;shipped;web
+202400873;2024-04-03;46;USB-C Hub;7;€1,506.10;completed;web
+202400343;2024-11-29;31;Office Chair;6;€1,163.99;completed;In-Store
+202401063;2024-12-19;7;Mechanical Keyboard;6;€525.74;cancelled;web
+202400248;2024-11-09;11;Cable Kit;9;€952.67;completed;In-Store
+202400328;2024-05-28;8;Webcam HD;8;€569.79;shipped;web
+202400708;2024-06-15;1;Tablet;3;€922.60;refunded;Phone Order
+202400381;2024-08-22;56;Smartphone;12;€843.23;pending;In-Store
+202400089;2024-02-15;79;Docking Station;9;€989.80;pending;mobile
+202400619;2024-01-04;10;USB-C Hub;-1;€1,659.46;completed;mobile
+202400554;2024-05-28;5;Cable Kit;2;€1,819.18;cancelled;web
+202400979;2024-03-19;53;Power Bank;7;€130.27;SHIPPED;web
+202400870;2024-10-26;59;Standing Desk;14;€1,140.90;completed;web
+202401051;2024-07-19;45;Desk Lamp;12;€18.13;shipped;web
+202400320;2024-01-09;16;Laptop Pro;8;€1,472.59;shipped;In-Store
+202400482;2024-02-03;79;Wireless Mouse;10;€48.54;completed;mobile
+202400630;2024-03-24;49;Standing Desk;12;€1,881.08;shipped;web
+202400585;2024-03-05;25;Cable Kit;3;€219.65;completed;Phone Order
+202400353;2024-05-28;73;Headset;11;€142.86;refunded;web
+202400603;2024-08-12;8; Laptop Pro ;6;€516.74;completed;web
+202400615;2024-11-02;43;Standing Desk;5;€1,391.80;completed;mobile
+202400359;2024-10-07;58;Tablet;8;€320.62;completed;mobile
+202400530;2024-05-26;53;Tablet;7;€1,157.65;shipped;web
+202400011;2024-07-18;67;Office Chair;7;€1,157.87;pending;web
+202400597;2024-07-17;22; USB-C Hub ;12;€472.38;completed;Phone Order
+202400414;2024-12-12;14;Webcam HD;13;€1,315.07;completed;web
+202400436;2024-09-11;19;4K Monitor;1;€952.54;completed;In-Store
+202400060;2024-07-16;31;Standing Desk;11;€1,270.94;shipped;Phone Order
+202400311;2024-10-19;55;Webcam HD;13;€1,592.06;completed;mobile
+202400064;2024-02-05;75;Docking Station;8;€1,145.82;pending;Phone Order
+202400299;2024-02-17;26;Webcam HD;2;€1,429.89;pending;Phone Order
+202400351;2024-03-01;78;4K Monitor;13;€1,207.97;shipped;web
+202400717;2024-07-14;28;Cable Kit;13;€477.82;pending;web
+202400905;2024-07-08;48;Smartphone;6;€1,299.26;completed;In-Store
+202400674;2024-12-08;47;Wireless Mouse;8;€1,472.28;Cancelled;web
+202400709;2024-07-08;40;USB-C Hub;13;€368.20;Completed;web
+202400368;2024-09-17;57;Headset;12;€1,225.25;shipped;mobile
+202400465;2024-09-04;75;Cable Kit;12;€1,264.64;completed;Phone Order
+202400807;2024-02-27;30;USB-C Hub;10;€1,628.32;shipped;web
+202400592;2024-01-09;66;Tablet;5;€1,320.56;completed;Phone Order
+202400362;2024-08-21;77;Mechanical Keyboard;10;€1,906.09;completed;mobile
+202400267;2024-11-25;20;Webcam HD;13;€737.98;refunded;web
+202400880;2024-08-07;68;Webcam HD;2;€31.79;shipped;web
+202401135;2024-05-24;5;Wireless Mouse;4;€21.81;shipped;Phone Order
+202401162;2024-03-09;44;Desk Lamp;9;€1,863.21;completed;web
+202401190;2024-07-18;5;Smartphone;1;€1,830.29;shipped;web
+202400992;2024-08-28;5;Office Chair;14;€157.38;Completed;In-Store
+202400576;2024-02-18;51;Office Chair;14;€1,848.67;completed;web
+202400755;2024-10-18;12;Docking Station;14;€1,006.24;completed;Phone Order
+202401128;2024-05-31;60;Desk Lamp;9;€409.30;completed;web
+202400988;2024-02-10;4;Wireless Mouse;5;€465.40;Completed;web
+202400271;2024-06-25;57;Office Chair;12;€901.92;cancelled;In-Store
+202401068;2024-12-09;4;4K Monitor;2;€564.13;shipped;web
+202400084;2024-05-16;20;Headset;10;€520.84;SHIPPED;Phone Order
+202400130;2024-07-17;42;Desk Lamp;4;€1,267.82;completed;mobile
+202400637;2024-08-02;66;Standing Desk;12;€776.30;shipped;mobile
+202400908;2024-09-24;56;Power Bank;8;€789.60;completed;In-Store
+202400917;2024-06-03;51; Docking Station ;11;€589.35;shipped;In-Store
+202400448;2024-04-14;36;Headset;7;€794.15;completed;In-Store
+202400261;2024-05-22;48;Cable Kit;7;€1,736.97;Completed;In-Store
+202400756;2024-04-20;59;Office Chair;12;€1,526.61;completed;Phone Order
+202401079;2024-04-26;24;Desk Lamp;6;€1,028.93;shipped;web
+202400895;2024-04-19;69;Mechanical Keyboard;9;€345.18;completed;Phone Order
+202400498;2024-08-20;1;Docking Station;6;€1,339.66;completed;web
+202400139;2024-03-26;21;Wireless Mouse;4;€399.37;Completed;mobile
+202400942;2024-12-02;45;Laptop Pro;10;€256.85;cancelled;web
+202400142;2024-09-23;28;Wireless Mouse;12;€393.36;completed;web
+202400559;2024-08-02;65;Headset;5;€1,622.40;completed;In-Store
+202400823;2024-05-14;25;Standing Desk;13;€623.22;completed;Phone Order
+202400421;2024-02-08;3;USB-C Hub;11;€1,387.33;completed;web
+202400140;2024-01-24;31;Laptop Pro;3;€332.43;Completed;web
+202400939;2024-06-08;10;Tablet;8;€1,177.59;Pending ;Phone Order
+202401113;2024-01-06;40;Standing Desk;4;€1,007.81;cancelled;web
+202400225;2024-01-14;39;Webcam HD;3;€1,587.61;completed;mobile
+202400334;2024-12-01;40; Power Bank ;-1;€1,459.22;pending;web
+202400275;2024-04-09;23;USB-C Hub;-2;€174.52;completed;In-Store
+202400290;2024-09-27;37; Cable Kit ;14;€1,924.57;shipped;Phone Order
+202400425;2024-09-25;46;Wireless Mouse;5;€513.89;pending;In-Store
+202400645;2024-09-26;77;Power Bank;9;€742.45;pending;mobile
+202400377;2024-01-24;27;Headset;3;€567.21;completed;In-Store
+202400584;2024-06-06;20;Docking Station;3;€167.24;pending;web
+202401073;2024-06-05;45; Power Bank ;9;€1,132.50;completed;web
+202401067;2024-06-14;11;Cable Kit;9;€1,799.78;refunded;Phone Order
+202400768;2024-07-29;80;Mechanical Keyboard;2;€1,218.53;completed;web
+202400718;2024-03-01;8;Office Chair;9;€217.38;shipped;web
+202400591;2024-07-18;20;Cable Kit;10;€720.52;completed;In-Store
+202400468;2024-10-11;3;Standing Desk;1;€22.26;completed;web
+202400524;2024-05-26;21;Power Bank;12;€1,233.01;shipped;mobile
+202400606;2024-02-09;69;4K Monitor;11;€1,849.66;completed;web
+202400997;2024-01-25;72;Smartphone;6;€1,709.65;completed;In-Store
+202400651;2024-07-12;17;Power Bank;10;€1,261.62;Pending ;web
+202401189;2024-07-20;55;Headset;4;€255.13;shipped;mobile
+202400487;2024-05-20;17;Tablet;6;€202.75;refunded;web
+202400040;2024-11-01;18;Tablet;14;€247.90;refunded;mobile
+202400031;2024-04-15;72;Headset;12;€907.30;completed;mobile
+202400243;2024-05-14;15;Standing Desk;2;€1,872.51;shipped;Phone Order
+202400672;2024-08-01;61;4K Monitor;10;€1,812.55;Completed;mobile
+202400137;2024-06-23;47;Power Bank;10;€1,610.85;Pending ;In-Store
+202401148;2024-02-08;74;Docking Station;11;€1,271.86;shipped;In-Store
+202400732;2024-04-22;80;Headset;14;€1,614.78;pending;web
+202400004;2024-12-04;44;Mechanical Keyboard;8;€1,482.54;shipped;mobile
+;;;;;;;
+202400618;2024-03-28;34;USB-C Hub;1;€227.31;completed;Phone Order
+;;;;;;;
+202400810;2024-01-19;9;Power Bank;13;€620.00;cancelled;Phone Order
+202401053;2024-11-06;28;Webcam HD;13;€1,173.21;completed;mobile
+202400758;2024-02-22;41;Wireless Mouse;-2;€1,742.05;SHIPPED;web
+202400480;2024-09-01;68;Cable Kit;12;€1,160.69;completed;web
+202400947;2024-07-21;58;Standing Desk;13;€1,611.52;completed;Phone Order
+202400695;2024-03-21;45; USB-C Hub ;10;€1,641.73;shipped;mobile
+202400813;2024-03-03;61;Docking Station;6;€447.31;completed;web
+202400006;2024-10-09;40;Office Chair;7;€733.63;completed;web
+202400101;2024-04-21;53;Office Chair;13;€1,533.81;cancelled;mobile
+202400850;2024-05-16;27;Headset;6;€1,752.16;pending;mobile
+202400520;2024-09-24;64;Power Bank;2;€614.09;completed;mobile
+202401059;2024-06-28;72;Docking Station;1;€190.69;completed;web
+202400858;2024-01-06;80;USB-C Hub;4;€987.88;Completed;web
+202400746;2024-01-06;75; Standing Desk ;10;€1,316.73;shipped;web
+202400395;2024-11-29;27; Docking Station ;-1;€1,382.95;shipped;mobile
+202400622;2024-10-31;78;Laptop Pro;12;€31.55;completed;mobile
+202400228;2024-04-17;47;Smartphone;13;€1,772.58;shipped;mobile
+202400846;2024-12-09;31;Desk Lamp;9;€372.52;completed;In-Store
+202401033;2024-01-30;62;Cable Kit;4;€277.14;refunded;In-Store
+202400655;2024-09-19;78;Tablet;9;€695.64;completed;web
+202400399;2024-08-16;61;Laptop Pro;3;€1,520.85;Pending ;web
+202400067;2024-07-17;15;Cable Kit;14;€165.62;Pending ;web
+202400068;2024-12-24;32;Wireless Mouse;12;€1,010.72;completed;web
+202400378;2024-03-12;66; 4K Monitor ;5;€886.24;completed;web
+202400212;2024-06-15;52;Wireless Mouse;8;€552.69;pending;web
+202400013;2024-08-08;44;Mechanical Keyboard;6;€77.76;Completed;web
+202401071;2024-01-10;76;Tablet;3;€1,331.24;pending;Phone Order
+202400831;2024-01-01;14;Tablet;10;€1,439.04;completed;web
+202400300;2024-09-09;64;Office Chair;-2;€1,953.19;completed;web
+202400523;2024-07-11;43;Cable Kit;1;€1,269.36;shipped;web
+202400863;2024-06-23;26;Headset;7;€724.43;pending;mobile
+202401086;2024-06-28;13;Tablet;8;€730.64;shipped;web
+202400827;2024-12-06;2;4K Monitor;4;€1,760.60;cancelled;web
+202401180;2024-09-01;75;Docking Station;2;€832.26;cancelled;web
+202401149;2024-08-26;7;Cable Kit;6;€1,023.57;completed;mobile
+202400363;2024-07-02;62;Docking Station;5;€215.90;Completed;web
+202401084;2024-03-04;28;Standing Desk;5;€39.24;shipped;mobile
+202400472;2024-07-06;42;Smartphone;3;€1,043.18;completed;web
+;;;;;;;
+202400582;2024-07-29;57;4K Monitor;12;€521.91;completed;mobile
+202400662;2024-04-22;7;Smartphone;12;€1,910.35;completed;mobile
+202400274;2024-03-31;48;Office Chair;1;€719.99;completed;mobile
+202400527;2024-03-12;47;Standing Desk;2;€1,405.25;completed;mobile
+202400238;2024-06-22;10;Tablet;11;€723.24;Completed;web
+202400762;2024-01-26;52;Webcam HD;6;€104.11;cancelled;Phone Order
+202400003;2024-12-09;7;Smartphone;-2;€824.58;shipped;web
+202400007;2024-04-14;67;Wireless Mouse;14;€548.39;refunded;web
+202400312;2024-10-18;19;Docking Station;7;€81.11;completed;Phone Order
+202401040;2024-06-15;29;Webcam HD;10;€1,321.72;refunded;web
+202400364;2024-02-12;22;Cable Kit;14;€354.11;pending;Phone Order
+202401101;2024-01-11;49;Docking Station;9;€1,695.83;cancelled;In-Store
+202400216;2024-08-13;76;Tablet;10;€689.18;completed;web
+202400899;2024-08-26;33;4K Monitor;3;€1,199.82;completed;In-Store
+202400028;2024-03-19;40;4K Monitor;5;€995.70;completed;web
+202401169;2024-12-13;16;Desk Lamp;13;€1,735.74;cancelled;web
+202400875;2024-02-29;65;Wireless Mouse;12;€836.74;completed;mobile
+202400671;2024-06-20;31;Headset;5;€1,466.63;completed;In-Store
+202400932;2024-02-19;17;Cable Kit;14;€22.22;completed;mobile
+202400483;2024-12-08;31;Mechanical Keyboard;1;€1,859.87;cancelled;Phone Order
+202400928;2024-03-22;48; 4K Monitor ;12;€1,875.89;pending;web
+202400948;2024-07-04;9;Laptop Pro;2;€1,212.37;Completed;web
+202400549;2024-12-12;72;Headset;3;€1,351.74;shipped;Phone Order
+202400355;2024-05-18;8;Power Bank;1;€1,197.56;refunded;Phone Order
+202401061;2024-08-13;14;Smartphone;3;€1,448.73;completed;web
+202400424;2024-06-08;33;Webcam HD;9;€1,793.99;Pending ;In-Store
+202400257;2024-09-07;79;Wireless Mouse;3;€965.94;Pending ;web
+202400292;2024-03-30;73;Webcam HD;8;€1,853.22;pending;In-Store
+202400026;2024-08-11;70;Power Bank;4;€56.14;completed;mobile
+202400337;2024-09-05;61;Headset;12;€712.61;shipped;Phone Order
+202400412;2024-09-05;16;Headset;2;€1,699.06;pending;web
+202400048;2024-02-01;57;Mechanical Keyboard;13;€1,393.50;cancelled;web
+202400319;2024-10-03;41;Power Bank;12;€1,785.50;completed;mobile
+202400107;2024-08-19;27;Mechanical Keyboard;10;€1,939.13;completed;In-Store
+202400817;2024-07-28;50;Smartphone;3;€1,194.69;cancelled;web
+202400056;2024-04-11;77;Desk Lamp;2;€1,324.78;shipped;web
+202400536;2024-06-05;41;Docking Station;8;€254.84;completed;web
+202400214;2024-01-12;33;Webcam HD;3;€981.41;completed;mobile
+202400121;2024-09-13;63;Laptop Pro;1;€1,984.80;completed;mobile
+202401081;2024-12-10;10;Cable Kit;4;€973.96;shipped;mobile
+202400431;2024-10-05;26; Standing Desk ;13;€1,289.83;cancelled;mobile
+202400534;2024-05-13;6;4K Monitor;3;€76.84;completed;mobile
+202400073;2024-12-10;65;Cable Kit;11;€600.49;shipped;web
+202400970;2024-05-14;43;Wireless Mouse;10;€355.18;SHIPPED;mobile
+202401019;2024-03-29;38; Docking Station ;9;€1,653.35;completed;web
+202400632;2024-02-17;5;4K Monitor;9;€1,718.57;pending;mobile
+202400964;2024-07-28;25;Standing Desk;9;€1,662.71;completed;Phone Order
+202400913;2024-06-22;21;Mechanical Keyboard;5;€987.89;shipped;In-Store
+202400803;2024-11-15;62;Webcam HD;9;€1,516.63;cancelled;web
+202400567;2024-02-12;61;Desk Lamp;2;€1,522.66;cancelled;Phone Order
+202400729;2024-07-17;17;Mechanical Keyboard;12;€1,523.56;completed;Phone Order
+202400747;2024-07-23;17;Tablet;5;€654.04;completed;web
+202400515;2024-05-09;26;Wireless Mouse;10;€516.81;completed;mobile
+202400326;2024-09-08;28;Wireless Mouse;3;€1,012.19;completed;web
+202400945;2024-06-07;37;Docking Station;4;€1,657.91;Completed;mobile
+202400317;2024-08-13;15;Webcam HD;1;€630.47;completed;mobile
+202400812;2024-08-09;36;Standing Desk;8;€748.50;completed;web
+202400847;2024-06-04;45;Office Chair;7;€1,589.36;SHIPPED;web
+202400542;2024-10-02;21;Office Chair;6;€1,746.54;completed;Phone Order
+202400702;2024-10-22;45;Headset;10;€1,246.67;completed;web
+202401035;2024-02-10;47;Tablet;0;€1,298.00;cancelled;web
+202400766;2024-02-09;61;Smartphone;11;€331.30;completed;web
+202400561;2024-06-02;35;Tablet;8;€921.27;pending;In-Store
+202400061;2024-11-22;11;Headset;8;€545.19;completed;web
+202400740;2024-07-09;22;Smartphone;1;€540.20;shipped;In-Store
+202400093;2024-10-06;18;Cable Kit;8;€1,789.96;completed;web
+202400877;2024-03-03;16;Tablet;7;€327.87;shipped;In-Store
+202400713;2024-05-22;59;Cable Kit;2;€578.65;pending;mobile
+202400352;2024-08-22;11;Webcam HD;9;€746.72;Completed;web
+202400954;2024-09-03;64;Docking Station;8;€532.10;completed;web
+202400281;2024-05-01;18;Desk Lamp;2;€1,922.54;completed;Phone Order
+202401089;2024-08-25;47;USB-C Hub;6;€638.91;completed;mobile
+202400423;2024-04-08;45;Wireless Mouse;1;€752.16;shipped;web
+202400360;2024-07-14;60;4K Monitor;1;€893.39;completed;web
+202400494;2024-03-26;6;Webcam HD;5;€903.36;completed;In-Store
+202400562;2024-03-23;70;Docking Station;6;€1,673.98;completed;web
+202400851;2024-09-20;23;Power Bank;13;€529.49;completed;In-Store
+202400589;2024-11-12;47;USB-C Hub;5;€1,259.65;pending;web
+202400669;2024-11-05;61; Webcam HD ;2;€1,167.91;cancelled;web
+202401091;2024-01-17;15;Office Chair;8;€540.65;completed;In-Store
+202400183;2024-11-08;47;Mechanical Keyboard;7;€133.97;shipped;web
+202401085;2024-02-03;61;Office Chair;4;€69.43;Completed;mobile
+202400459;2024-10-15;80;Mechanical Keyboard;5;€815.71;completed;mobile
+202400111;2024-08-29;25;4K Monitor;14;€30.98;pending;web
+202400371;2024-04-17;46; Power Bank ;6;€1,816.60;completed;Phone Order
+202400240;2024-03-10;9;Standing Desk;8;€1,954.23;Completed;Phone Order
+202401106;2024-05-28;58;Desk Lamp;5;€1,675.66;completed;web
+202401139;2024-10-02;25; 4K Monitor ;3;€674.55;completed;Phone Order
+202400931;2024-02-16;43;Headset;6;€1,207.68;completed;mobile
+202400205;2024-02-24;79; Power Bank ;12;€267.95;refunded;web
+202400824;2024-08-10;21;Webcam HD;12;€1,362.86;SHIPPED;web
+202400262;2024-06-20;69;Desk Lamp;9;€1,991.61;pending;Phone Order
+202400595;2024-11-25;50;Office Chair;6;€1,537.54;completed;web
+202400666;2024-12-27;33;Laptop Pro;3;€571.99;completed;web
+202400340;2024-01-15;62;Tablet;4;€880.81;shipped;web
+202400856;2024-05-13;35;Webcam HD;11;€1,210.88;pending;Phone Order
+202400845;2024-07-06;15;Wireless Mouse;3;€1,556.36;completed;Phone Order
+202400486;2024-10-19;8;Power Bank;4;€1,329.44;cancelled;web
+202400184;2024-06-17;49;Mechanical Keyboard;3;€1,282.90;refunded;web
+202400138;2024-05-20;36;Standing Desk;1;€1,176.07;completed;web
+202401172;2024-03-09;57;Tablet;4;€307.39;shipped;web
+202400724;2024-06-13;76;Webcam HD;7;€117.97;pending;web
+202401069;2024-12-20;64;Headset;14;€295.30;completed;mobile
+202400081;2024-02-21;52; Mechanical Keyboard ;12;€950.17;cancelled;Phone Order
+202400514;2024-05-13;51;Headset;14;€940.32;completed;mobile
+202401098;2024-12-08;28;4K Monitor;11;€1,011.41;cancelled;web
+202400779;2024-01-13;8;Office Chair;6;€1,536.79;completed;web
+202400030;2024-10-31;34;4K Monitor;5;€376.92;completed;web
+202401094;2024-03-07;48;4K Monitor;3;€619.70;cancelled;Phone Order
+202400166;2024-12-12;49;USB-C Hub;2;€1,955.70;shipped;mobile
+202400249;2024-03-28;25;Headset;2;€1,304.45;Completed;mobile
+202400308;2024-08-28;40;Cable Kit;4;€929.29;completed;web
+202400781;2024-07-12;45;Power Bank;3;€158.62;cancelled;mobile
+202400739;2024-04-24;55; USB-C Hub ;9;€1,472.05;Completed;mobile
+202400347;2024-01-22;75;Desk Lamp;6;€32.48;Completed;mobile
+202400335;2024-07-13;11;Headset;7;€1,679.61;completed;Phone Order
+202400286;2024-11-02;15;Laptop Pro;4;€706.15;refunded;mobile
+202400972;2024-03-23;37;Power Bank;5;€474.89;completed;web
+202400098;2024-10-14;30;4K Monitor;5;€519.81;completed;web
+202400627;2024-06-08;13;Docking Station;11;€540.95;completed;Phone Order
+202401048;2024-10-29;19;Cable Kit;11;€1,262.07;completed;mobile
+202400934;2024-12-29;31;Cable Kit;4;€1,433.28;cancelled;Phone Order
+202400711;2024-09-27;2;4K Monitor;5;€379.03;Completed;mobile
+202400840;2024-01-24;58;4K Monitor;11;€1,113.99;completed;mobile
+202400629;2024-09-04;2; Tablet ;14;€1,873.43;cancelled;web
+202400820;2024-10-11;55;Tablet;5;€843.02;completed;Phone Order
+202400775;2024-10-05;76;Mechanical Keyboard;13;€781.66;shipped;web
+202400971;2024-09-09;70;Docking Station;3;€460.99;pending;mobile
+202400066;2024-05-10;16;Docking Station;5;€1,827.90;pending;mobile
+202401008;2024-01-11;44;Laptop Pro;10;€672.56;completed;mobile
+202400761;2024-01-30;34;USB-C Hub;5;€1,470.50;refunded;Phone Order
+202400583;2024-12-16;39;Office Chair;3;€601.47;completed;mobile
+202401095;2024-05-03;68;Wireless Mouse;13;€1,664.44;completed;In-Store
+202401110;2024-07-04;65;Webcam HD;3;€890.90;Pending ;In-Store
+202400303;2024-04-17;41;4K Monitor;9;€164.10;completed;mobile
+202400255;2024-06-11;40;Power Bank;1;€1,899.56;completed;web
+202400981;2024-08-21;19; USB-C Hub ;12;€434.03;completed;mobile
+202400953;2024-07-14;60; Tablet ;7;€1,046.82;shipped;web
+202400313;2024-06-05;8;USB-C Hub;7;€1,436.60;completed;web
+202400543;2024-10-21;33;Webcam HD;4;€1,446.37;SHIPPED;web
+202400222;2024-06-22;61;Office Chair;12;€804.61;refunded;mobile
+202400478;2024-10-21;44;Cable Kit;3;€1,918.87;completed;mobile
+202400389;2024-01-12;73;Laptop Pro;12;€1,818.87;refunded;mobile
+202400236;2024-01-28;1;Webcam HD;-1;€453.66;completed;web
+202400860;2024-10-01;30;USB-C Hub;10;€1,606.34;shipped;In-Store
+202400984;2024-08-12;12;Tablet;7;€125.79;completed;web
+202401055;2024-05-11;57;4K Monitor;7;€456.32;completed;In-Store
+202400306;2024-12-06;66;Headset;3;€582.88;completed;Phone Order
+202401122;2024-03-17;8;Cable Kit;6;€1,264.23;Pending ;web
+202400808;2024-11-15;32;Cable Kit;9;€1,097.25;Cancelled;Phone Order
+202400789;2024-07-20;38;Smartphone;6;€652.33;refunded;web
+202400938;2024-09-23;3;Webcam HD;10;€1,537.74;completed;mobile
+202401150;2024-05-08;75;Standing Desk;11;€503.33;pending;mobile
+202400250;2024-06-27;41;Laptop Pro;2;€1,365.60;completed;web
+202401167;2024-03-27;54;Standing Desk;3;€1,331.56;shipped;mobile
+202400610;2024-09-13;49;Tablet;10;€1,492.23;completed;mobile
+202400072;2024-06-27;62;Wireless Mouse;4;€398.47;shipped;web
+202400095;2024-03-22;21;USB-C Hub;6;€1,554.49;refunded;mobile
+202400788;2024-11-27;55;Webcam HD;11;€1,590.50;completed;In-Store
+202400034;2024-06-05;8;Webcam HD;2;€1,498.25;cancelled;web
+202401078;2024-08-19;5;Desk Lamp;11;€1,753.03;SHIPPED;Phone Order
+202400786;2024-12-27;49;Headset;4;€562.43;completed;web
+202400594;2024-05-28;49;Office Chair;9;€78.25;shipped;Phone Order
+202400449;2024-11-23;73; Office Chair ;6;€1,454.39;completed;Phone Order
+202400446;2024-05-21;32;Laptop Pro;2;€1,824.77;refunded;mobile
+202400842;2024-10-15;1;Office Chair;11;€953.10;cancelled;mobile
+202401198;2024-08-07;53;Power Bank;7;€1,928.99;pending;mobile
+202401062;2024-06-04;29;Laptop Pro;2;€353.96;cancelled;mobile
+202400078;2024-08-08;16;Cable Kit;2;€1,362.47;shipped;web
+202400085;2024-08-22;51;Docking Station;9;€1,695.38;completed;Phone Order
+202400553;2024-11-24;65;Tablet;8;€827.27;Completed;web
+202400083;2024-05-11;79; Cable Kit ;4;€505.64;pending;mobile
+202400458;2024-12-10;73;Headset;3;€1,458.45;Cancelled;web
+202400754;2024-05-14;3;Office Chair;4;€668.33;completed;In-Store
+202400437;2024-03-25;44;Tablet;13;€741.74;completed;mobile
+202401109;2024-10-18;72;Webcam HD;3;€267.02;cancelled;mobile
+202400911;2024-09-02;77;Standing Desk;0;€1,360.75;Pending ;Phone Order
+202400405;2024-10-01;17;Desk Lamp;12;€96.14;pending;mobile
+202401056;2024-11-04;4;4K Monitor;11;€1,517.80;pending;web
+202400623;2024-03-29;32;Desk Lamp;3;€480.22;cancelled;Phone Order
+202401174;2024-05-12;80;Power Bank;3;€1,061.55;SHIPPED;web
+202400105;2024-11-07;27;USB-C Hub;1;€337.70;pending;Phone Order
+202400760;2024-02-25;76;Mechanical Keyboard;10;€731.33;completed;Phone Order
+202400621;2024-01-17;40; Desk Lamp ;2;€1,578.29;Completed;web
+202400063;2024-04-28;2;Mechanical Keyboard;8;€1,126.15;pending;web
+202400282;2024-12-12;9;Docking Station;6;€692.31;completed;web
+202400679;2024-12-02;9; Standing Desk ;2;€665.66;completed;web
+202400239;2024-10-10;74;Tablet;10;€573.91;completed;Phone Order
+202400224;2024-05-11;3;Mechanical Keyboard;11;€1,513.81;Completed;mobile
+202400146;2024-01-21;50;Mechanical Keyboard;5;€283.64;completed;mobile
+202401154;2024-03-29;67;USB-C Hub;13;€1,059.18;completed;web
+202400374;2024-08-22;51;Tablet;12;€1,750.41;completed;web
+202400119;2024-07-02;80;Tablet;13;€1,688.72;pending;web
+202400821;2024-02-01;53;Mechanical Keyboard;10;€1,414.67;completed;web
+202400251;2024-11-14;75;Standing Desk;7;€1,323.31;completed;mobile
+202401168;2024-05-09;8;Laptop Pro;5;€563.73;shipped;mobile
+202400010;2024-07-26;41;Headset;-2;€1,317.33;shipped;mobile
+202400450;2024-08-31;30;Standing Desk;11;€653.25;completed;web
+202400894;2024-05-06;11; Office Chair ;0;€346.02;completed;Phone Order
+202400390;2024-08-12;11;Laptop Pro;14;€705.37;completed;mobile
+202401076;2024-03-22;37;Smartphone;7;€33.61;completed;web
+202400922;2024-08-22;61; Power Bank ;3;€1,054.98;completed;web
+202400461;2024-06-06;80;USB-C Hub;12;€316.02;shipped;web
+202401116;2024-10-12;2;Office Chair;6;€59.67;pending;Phone Order
+202400145;2024-02-07;71;Laptop Pro;14;€685.54;completed;web
+202400502;2024-07-14;40;Headset;5;€624.43;pending;web
+202401119;2024-11-08;1;Tablet;10;€1,556.34;Completed;mobile
+202400540;2024-11-22;35;4K Monitor;2;€1,780.55;completed;Phone Order
+202400178;2024-12-09;28;Laptop Pro;2;€432.37;completed;In-Store
+202401170;2024-06-24;48; Desk Lamp ;2;€244.56;Completed;web
+202400716;2024-11-30;70; Wireless Mouse ;8;€550.75;completed;web
+202400599;2024-12-26;4;Headset;2;€1,527.41;pending;mobile
+;;;;;;;
+202400008;2024-04-06;66;4K Monitor;3;€149.96;completed;In-Store
+202400571;2024-01-25;71;Office Chair;6;€386.75;completed;mobile
+202400862;2024-02-23;60;Standing Desk;6;€1,509.74;completed;web
+202400358;2024-06-02;38;Smartphone;8;€718.02;pending;web
+202400330;2024-02-02;15;Desk Lamp;13;€1,088.03;pending;mobile
+202400722;2024-09-20;19;Wireless Mouse;6;€1,572.71;cancelled;mobile
+202400849;2024-02-04;64;Laptop Pro;8;€228.52;pending;web
+202400259;2024-10-10;5;Laptop Pro;9;€1,337.42;completed;mobile
+202400888;2024-12-25;13; Power Bank ;2;€824.04;completed;web
+202400912;2024-05-26;35;Docking Station;7;€578.48;completed;mobile
+202400890;2024-11-24;46;Standing Desk;4;€785.30;completed;In-Store
+202400616;2024-12-06;66;Laptop Pro;2;€1,639.48;cancelled;web
+202400848;2024-05-14;46; Docking Station ;4;€1,711.94;completed;mobile
+202400526;2024-11-24;33;Mechanical Keyboard;13;€617.92;completed;web
+202401178;2024-12-08;59;4K Monitor;2;€825.97;completed;web
+202400736;2024-08-27;10;Desk Lamp;5;€1,974.59;shipped;web
+202400769;2024-02-14;43;Power Bank;4;€1,361.14;completed;Phone Order
+202401152;2024-06-09;8;Mechanical Keyboard;12;€654.60;Completed;web
+202400441;2024-07-03;39;Webcam HD;3;€621.32;pending;mobile
+202400532;2024-09-22;57;4K Monitor;6;€1,428.79;completed;mobile
+202401044;2024-08-07;72;Tablet;11;€1,868.69;completed;mobile
+202400229;2024-03-04;76;Mechanical Keyboard;12;€234.90;completed;web
+202401075;2024-11-04;30;Headset;8;€1,410.20;completed;web
+202400213;2024-02-10;76;Power Bank;2;€49.80;completed;mobile
+202400080;2024-10-29;36;Desk Lamp;10;€293.98;completed;web
+202400149;2024-02-01;51;Smartphone;3;€1,438.37;Pending ;mobile
+202400721;2024-04-10;61;Smartphone;5;€1,964.09;completed;In-Store
+202400725;2024-10-07;5;Desk Lamp;12;€1,429.57;completed;mobile
+202400715;2024-11-01;70;Smartphone;5;€121.37;SHIPPED;mobile
+202400134;2024-12-11;4;Wireless Mouse;6;€120.49;completed;Phone Order
+202400844;2024-10-05;68;Wireless Mouse;12;€641.93;completed;In-Store
+202400409;2024-03-02;18;Wireless Mouse;14;€1,149.14;completed;web
+202400773;2024-10-28;6; USB-C Hub ;13;€1,991.42;completed;mobile
+202400508;2024-01-22;46;Desk Lamp;10;€235.78;completed;web
+202401011;2024-01-28;19;Desk Lamp;8;€326.77;completed;web
+202400505;2024-11-01;54;Wireless Mouse;13;€1,058.22;completed;Phone Order
+202400733;2024-03-27;5;Mechanical Keyboard;10;€66.95;completed;mobile
+202400348;2024-12-30;74;4K Monitor;12;€1,994.84;Cancelled;web
+202400387;2024-04-05;73;Office Chair;3;€1,655.25;completed;web
+202400001;2024-11-30;10;Tablet;10;€1,443.52;completed;mobile
+202400361;2024-01-21;69;Laptop Pro;14;€1,540.87;completed;Phone Order
+202401145;2024-04-17;18;Standing Desk;-2;€1,264.25;completed;web
+202400476;2024-05-15;4;Desk Lamp;12;€1,692.33;refunded;Phone Order
+202401097;2024-08-28;45;Webcam HD;9;€314.76;cancelled;In-Store
+202400771;2024-12-25;53;Tablet;14;€1,635.72;completed;mobile
+202400173;2024-01-06;7;Office Chair;5;€725.83;pending;Phone Order
+202400451;2024-01-28;33;Standing Desk;8;€430.67;completed;mobile
+202400126;2024-02-10;40;Docking Station;8;€1,601.55;completed;web
+202400853;2024-02-02;1; Cable Kit ;9;€759.30;Completed;web
+202400531;2024-07-25;46;Docking Station;6;€374.92;completed;web
+202400091;2024-01-30;36;Laptop Pro;9;€870.30;pending;Phone Order
+202401173;2024-12-26;13;Laptop Pro;7;€327.71;pending;web
+202400182;2024-08-26;62;Cable Kit;13;€567.67;completed;web
+202400701;2024-10-31;61;Desk Lamp;10;€794.02;shipped;Phone Order
+202401024;2024-02-21;72; Smartphone ;13;€670.18;completed;web
+202400252;2024-05-08;31;4K Monitor;10;€910.96;completed;web
+202400070;2024-11-01;34;Webcam HD;9;€1,841.37;SHIPPED;mobile
+202400132;2024-07-21;25;Headset;5;€1,512.33;Completed;web
+202400301;2024-08-09;46; Webcam HD ;4;€271.13;shipped;mobile
+202401046;2024-11-21;74;Docking Station;-2;€663.69;completed;mobile
+202400327;2024-02-29;26;Smartphone;14;€146.17;shipped;In-Store
+202401186;2024-05-23;42;Laptop Pro;10;€1,964.90;completed;Phone Order
+202400500;2024-04-27;76;Cable Kit;13;€109.66;cancelled;mobile
+202400830;2024-06-12;32;Standing Desk;5;€1,164.66;refunded;mobile
+202400940;2024-08-30;78;Tablet;-2;€1,164.29;pending;mobile
+202400496;2024-04-28;53;Tablet;4;€1,878.96;completed;mobile
+202400339;2024-12-07;10;Cable Kit;11;€1,516.90;shipped;mobile
+202400986;2024-02-22;67;Webcam HD;7;€1,965.18;refunded;web
+202400165;2024-09-29;1;Headset;2;€59.18;completed;web
+202400029;2024-06-27;37;Wireless Mouse;11;€1,870.06;completed;Phone Order
+202400517;2024-05-02;4;Desk Lamp;10;€1,595.85;cancelled;In-Store
+202400194;2024-02-23;37;Smartphone;9;€77.04;completed;web
+202400650;2024-02-03;25;USB-C Hub;2;€1,518.24;Completed;mobile
+202400797;2024-09-18;25; Docking Station ;13;€165.58;completed;web
+202400170;2024-03-16;18; Cable Kit ;8;€1,484.30;completed;web
+202400843;2024-01-01;5;Desk Lamp;6;€697.45;completed;mobile
+202400174;2024-06-06;26;Docking Station;5;€1,001.39;Completed;web
+202400519;2024-02-24;78;Desk Lamp;3;€1,060.31;shipped;mobile
+202400941;2024-03-09;59; Standing Desk ;8;€220.42;completed;In-Store
+202400719;2024-03-18;22;4K Monitor;14;€1,117.45;refunded;mobile
+202400492;2024-07-17;39;Tablet;5;€181.46;shipped;mobile
+202400074;2024-03-01;63;Cable Kit;8;€1,023.78;Pending ;Phone Order
+202401004;2024-12-26;43;Wireless Mouse;14;€353.76;pending;web
+202400588;2024-12-17;29; Laptop Pro ;2;€424.22;Completed;web
+202400235;2024-06-26;70;Webcam HD;1;€145.25;pending;In-Store
+202400215;2024-04-28;75;4K Monitor;7;€941.50;cancelled;Phone Order
+202400969;2024-09-18;70;4K Monitor;9;€720.56;completed;mobile
+202400133;2024-01-19;9;Mechanical Keyboard;4;€697.58;Completed;mobile
+202400794;2024-11-13;28;Office Chair;8;€934.85;completed;In-Store
+202401049;2024-11-05;24;Wireless Mouse;14;€756.19;Completed;web
+202400962;2024-01-03;50;Headset;7;€1,361.76;Completed;Phone Order
+202400186;2024-05-29;19;Headset;9;€451.01;refunded;web
+202400042;2024-10-05;10;Laptop Pro;8;€197.54;shipped;web
+202400109;2024-01-11;18;Tablet;11;€1,285.12;shipped;web
+202400868;2024-06-14;79;Desk Lamp;7;€1,014.62;completed;mobile
+202400569;2024-05-29;45;Headset;6;€1,154.73;completed;Phone Order
+202400667;2024-10-21;48;Headset;5;€974.14;Completed;mobile
+202401025;2024-10-02;74;Power Bank;3;€1,576.52;cancelled;web
+202401166;2024-11-17;58;Docking Station;8;€536.77;completed;Phone Order
+202400484;2024-01-25;62;Headset;-1;€304.13;completed;mobile
+202400469;2024-10-25;54;USB-C Hub;1;€181.99;shipped;mobile
+202400025;2024-11-04;69;Desk Lamp;13;€1,814.79;shipped;mobile
+202400677;2024-06-27;79;Tablet;2;€172.67;completed;mobile
+202400696;2024-03-14;26;Wireless Mouse;14;€1,893.78;completed;web
+202401200;2024-12-23;43;Cable Kit;8;€1,367.44;completed;mobile
+202401120;2024-08-26;22;Cable Kit;8;€1,028.29;pending;In-Store
+202400367;2024-09-08;28;USB-C Hub;12;€146.71;completed;In-Store
+202400859;2024-01-11;64;Office Chair;9;€1,178.30;refunded;mobile
+202401064;2024-12-27;24;Office Chair;14;€713.57;completed;In-Store
+202400384;2024-02-15;71;Standing Desk;9;€1,070.23;completed;web
+202400455;2024-05-31;55;Headset;2;€1,786.67;shipped;web
+202400265;2024-04-24;11;4K Monitor;14;€1,096.43;completed;web
+202400778;2024-12-14;79;Laptop Pro;6;€1,707.83;completed;In-Store
+202401003;2024-12-10;37;Webcam HD;3;€745.36;completed;mobile
+202400445;2024-06-30;14;Wireless Mouse;13;€462.75;completed;Phone Order
+202400396;2024-07-31;19;Mechanical Keyboard;11;€1,894.54;completed;Phone Order
+202400865;2024-09-28;76;Webcam HD;2;€1,432.20;Cancelled;mobile
+202400177;2024-09-09;35;4K Monitor;11;€710.78;completed;In-Store
+202400019;2024-01-14;65;4K Monitor;5;€1,962.65;shipped;mobile
+202400723;2024-09-18;27;Smartphone;13;€1,937.82;shipped;Phone Order
+202400833;2024-07-21;13;Desk Lamp;13;€1,634.43;completed;In-Store
+202400596;2024-12-01;57;Power Bank;-2;€1,247.85;pending;web
+202400062;2024-07-29;23;Headset;7;€376.88;shipped;In-Store
+202400273;2024-06-14;7;Tablet;7;€1,435.90;pending;web
+202401137;2024-06-21;36;4K Monitor;5;€1,779.27;completed;Phone Order
+202400279;2024-06-26;34; 4K Monitor ;4;€1,934.11;shipped;web
+202401184;2024-03-19;54;Wireless Mouse;14;€597.43;completed;web
+202400369;2024-10-24;29;USB-C Hub;14;€1,393.97;completed;mobile
+202400907;2024-04-06;66; Webcam HD ;13;€1,211.52;completed;Phone Order
+202400838;2024-09-12;3; Power Bank ;11;€1,530.73;shipped;web
+202401031;2024-02-09;34;Headset;1;€316.40;Completed;web
+202400738;2024-04-15;22;Standing Desk;12;€1,745.23;completed;In-Store
+202400799;2024-03-08;49;Power Bank;9;€1,838.25;completed;mobile
+202400548;2024-08-02;55;Office Chair;10;€868.83;cancelled;web
+202400900;2024-06-23;18;Smartphone;1;€547.37;completed;mobile
+202400689;2024-08-09;65;Cable Kit;12;€838.33;Completed;mobile
+202400921;2024-12-02;29;Power Bank;5;€1,599.82;completed;web
+202400457;2024-12-22;49;Desk Lamp;5;€1,159.49;completed;web
+202400394;2024-01-16;52;Power Bank;4;€259.60;completed;web
+202400676;2024-01-29;61;Wireless Mouse;12;€1,276.47;completed;web
+202400933;2024-10-31;30;Desk Lamp;7;€1,229.39;completed;mobile
+202400987;2024-05-20;33;Laptop Pro;7;€424.53;completed;In-Store
+202400376;2024-08-05;7; Cable Kit ;5;€1,789.70;Pending ;web
+202400413;2024-01-18;12;4K Monitor;9;€1,742.76;completed;mobile
+202400075;2024-06-28;43;Power Bank;-2;€663.39;completed;In-Store
+202401133;2024-07-10;71;Smartphone;6;€668.13;cancelled;Phone Order
+202400882;2024-10-16;51;Desk Lamp;3;€724.89;completed;mobile
+202400501;2024-04-09;25;Tablet;1;€728.32;completed;mobile
+202400819;2024-07-03;12;Laptop Pro;3;€1,068.77;completed;web
+202400617;2024-06-22;61;Office Chair;2;€1,329.10;cancelled;mobile
+202400115;2024-08-19;51;USB-C Hub;4;€1,171.54;refunded;Phone Order
+202400418;2024-04-09;46; Tablet ;-1;€275.30;Completed;web
+202400602;2024-08-21;54;Laptop Pro;4;€1,338.23;Completed;web
+202400605;2024-07-29;78;Desk Lamp;5;€833.37;Completed;mobile
+202400090;2024-11-06;60;Headset;12;€1,974.28;completed;web
+202401160;2024-05-27;66;Power Bank;11;€951.93;Completed;mobile
+202400499;2024-06-22;21;Office Chair;12;€1,937.64;cancelled;Phone Order
+202400967;2024-02-13;54;Cable Kit;10;€996.23;shipped;web
+202400903;2024-04-23;60;Mechanical Keyboard;6;€704.20;completed;mobile
+202400901;2024-08-26;39;USB-C Hub;12;€1,320.05;completed;mobile
+202400012;2024-06-27;5;Webcam HD;12;€607.32;completed;mobile
+202400397;2024-10-01;3;4K Monitor;7;€1,565.16;cancelled;mobile
+202400772;2024-03-10;12;Office Chair;2;€1,395.15;completed;mobile
+202400556;2024-06-04;45;Smartphone;4;€620.93;pending;mobile
+202400043;2024-02-16;65;Office Chair;11;€1,564.73;completed;web
+202400168;2024-12-10;80;USB-C Hub;3;€423.78;pending;mobile
+202400417;2024-12-03;66;USB-C Hub;14;€1,186.82;completed;Phone Order
+202400577;2024-11-13;30;Mechanical Keyboard;11;€1,125.24;cancelled;web
+202400268;2024-04-06;22;Laptop Pro;9;€160.39;cancelled;web
+202400826;2024-03-02;72;Wireless Mouse;11;€396.87;completed;mobile
+202400427;2024-11-03;6;Smartphone;9;€950.02;shipped;In-Store
+202400691;2024-11-04;48;Cable Kit;2;€1,400.17;completed;Phone Order
+202400545;2024-06-08;35;Wireless Mouse;14;€1,326.81;completed;mobile
+202401134;2024-12-29;4;Docking Station;7;€1,603.24;Completed;mobile
+202400675;2024-08-31;62;4K Monitor;14;€1,057.01;pending;web
+202400690;2024-10-06;60;Cable Kit;8;€868.63;cancelled;web
+202401066;2024-03-17;52;Power Bank;9;€1,812.68;shipped;In-Store
+202401188;2024-01-24;50;USB-C Hub;4;€90.59;Completed;web
+202401005;2024-03-14;32;Smartphone;7;€1,812.01;completed;mobile
+202400904;2024-03-27;62;Wireless Mouse;6;€1,570.67;Pending ;In-Store
+202400258;2024-08-10;58;Smartphone;5;€653.74;cancelled;Phone Order
+202400336;2024-11-30;47; Power Bank ;11;€1,396.48;completed;mobile
+202400016;2024-07-19;4;Desk Lamp;7;€837.08;completed;In-Store
+202400923;2024-08-10;70;Headset;1;€112.62;completed;mobile
+202400325;2024-08-31;59;Headset;3;€130.37;SHIPPED;web
+202400608;2024-07-29;8;Mechanical Keyboard;11;€1,257.01;completed;web
+202401132;2024-03-27;6;Tablet;-2;€1,835.93;completed;web
+202400809;2024-08-24;21;Tablet;10;€639.11;Completed;In-Store
+202400223;2024-07-16;80;Cable Kit;3;€147.21;shipped;web
+202400180;2024-04-16;49; Standing Desk ;10;€1,232.11;completed;web
+202400100;2024-04-08;8;Desk Lamp;10;€1,505.29;refunded;mobile
+202400522;2024-05-18;3;Cable Kit;9;€1,398.51;pending;mobile
+202400023;2024-02-09;27;Webcam HD;10;€856.48;completed;mobile
+202400357;2024-06-30;69;Laptop Pro;9;€1,802.81;shipped;web
+202400734;2024-12-22;4;Laptop Pro;5;€1,454.09;completed;In-Store
+202400983;2024-04-29;1;Mechanical Keyboard;14;€1,263.53;refunded;In-Store
+202401123;2024-11-04;52;Mechanical Keyboard;7;€1,795.01;completed;In-Store
+202400612;2024-10-22;23;Smartphone;14;€1,554.89;completed;web
+202401030;2024-02-25;65;4K Monitor;9;€1,585.15;SHIPPED;mobile
+202400341;2024-03-15;80;Cable Kit;11;€1,151.06;completed;Phone Order
+202400432;2024-10-26;44; Tablet ;11;€647.93;cancelled;mobile
+202400963;2024-04-07;24;USB-C Hub;12;€725.27;completed;mobile
+202400218;2024-11-16;34;Laptop Pro;10;€1,808.45;shipped;web
+202400204;2024-12-02;58;Tablet;14;€1,171.80;completed;web
+202400927;2024-11-22;23;Cable Kit;14;€858.34;Completed;web
+202400944;2024-04-23;45;Tablet;6;€1,414.40;shipped;In-Store
+202400094;2024-08-05;4;Headset;6;€630.34;Completed;Phone Order
+202400925;2024-06-03;60; Desk Lamp ;7;€1,739.83;completed;web
+202400069;2024-11-10;54;Office Chair;3;€702.01;completed;web
+202400959;2024-01-21;49; Headset ;-2;€131.57;completed;web
+202400285;2024-06-05;2;Desk Lamp;3;€1,277.95;Completed;Phone Order
+202400697;2024-10-19;76;Webcam HD;13;€770.24;cancelled;web
+202400086;2024-10-24;14;Headset;0;€695.32;completed;web
+202400435;2024-02-21;27;Power Bank;10;€1,683.21;completed;Phone Order
+202400815;2024-03-22;63;Cable Kit;5;€1,203.47;completed;Phone Order
+202400154;2024-10-28;49; Webcam HD ;8;€1,174.93;shipped;In-Store
+202400076;2024-04-21;55;4K Monitor;12;€1,597.11;completed;mobile
+202401054;2024-05-16;72; Tablet ;2;€1,805.19;completed;Phone Order
+202400581;2024-12-04;29; Standing Desk ;14;€1,073.48;completed;web
+202400447;2024-11-08;42;Standing Desk;10;€1,648.23;completed;web
+202400704;2024-04-24;62; Wireless Mouse ;1;€195.69;pending;mobile
+202400189;2024-10-15;59;Webcam HD;6;€1,100.54;completed;In-Store
+202400272;2024-04-27;8;Power Bank;9;€1,346.06;shipped;Phone Order
+202400237;2024-06-27;36;Office Chair;8;€1,028.15;completed;mobile
+202400488;2024-11-06;80;Headset;8;€1,387.88;completed;Phone Order
+202401171;2024-04-23;48;Power Bank;7;€953.64;Completed;web
+202400560;2024-06-06;9;Headset;7;€171.44;cancelled;web
+202400118;2024-02-08;46;Wireless Mouse;13;€1,425.39;completed;web
+202400638;2024-06-17;75;Office Chair;10;€247.65;completed;mobile
+202401088;2024-01-17;5;Standing Desk;7;€1,971.42;completed;mobile
+202400751;2024-07-04;26;Tablet;9;€1,900.11;pending;mobile
+202400513;2024-10-24;69;Laptop Pro;3;€1,379.27;refunded;In-Store
+202400634;2024-12-03;7;Laptop Pro;14;€1,930.03;completed;mobile
+202400804;2024-07-14;20;Webcam HD;2;€1,970.76;completed;In-Store
+202401027;2024-12-22;34;Power Bank;7;€1,285.07;Completed;mobile
+202400885;2024-03-24;31;Desk Lamp;3;€110.56;completed;web
+202400127;2024-09-13;8;USB-C Hub;6;€765.78;cancelled;web
+202400791;2024-01-25;62;Office Chair;2;€798.17;shipped;mobile
+202400117;2024-07-30;53;Standing Desk;7;€130.50;completed;In-Store
+202400474;2024-06-25;66;Tablet;11;€972.68;shipped;mobile
+202400741;2024-03-09;35;Wireless Mouse;3;€1,209.36;completed;mobile
+202401144;2024-12-23;25; Tablet ;2;€662.13;refunded;mobile
+202400058;2024-06-08;65;Office Chair;14;€586.79;completed;mobile
+202400604;2024-04-07;23;Wireless Mouse;5;€269.40;shipped;mobile
+202400787;2024-12-08;34;Mechanical Keyboard;4;€1,772.29;completed;web
+202400994;2024-11-23;23;Office Chair;5;€1,031.86;completed;web
+202400657;2024-05-18;66;Cable Kit;5;€1,755.67;Completed;mobile
+202400924;2024-11-14;4;Laptop Pro;1;€1,950.97;completed;In-Store
+202400943;2024-09-01;47;Cable Kit;4;€1,162.77;shipped;web
+202400106;2024-07-11;66;USB-C Hub;11;€688.46;refunded;mobile
+202400636;2024-04-14;32;Mechanical Keyboard;6;€1,874.50;shipped;In-Store
+202400370;2024-04-16;18;Standing Desk;6;€1,395.78;completed;web
+202400269;2024-01-18;37;Power Bank;3;€176.89;completed;Phone Order
+202400656;2024-11-11;52;Webcam HD;2;€978.22;refunded;web
+202400047;2024-10-17;16;Smartphone;10;€885.41;shipped;Phone Order
+202400350;2024-05-12;25;Cable Kit;2;€1,334.63;shipped;Phone Order
+202400774;2024-12-25;41;Wireless Mouse;12;€1,620.95;completed;In-Store
+202400196;2024-05-31;20;Power Bank;9;€1,006.37;completed;mobile
+202400103;2024-12-25;7;Standing Desk;9;€1,936.65;completed;web
+202400005;2024-08-25;42;USB-C Hub;1;€1,572.03;completed;web
+202400620;2024-10-23;11; Headset ;7;€952.79;pending;web
+202401014;2024-09-04;48;Webcam HD;14;€11.14;cancelled;mobile
+202400053;2024-09-09;7;Power Bank;7;€81.62;refunded;web
+202400264;2024-09-10;59; Laptop Pro ;14;€980.88;completed;web
+202401104;2024-04-17;78;Desk Lamp;6;€1,970.91;pending;mobile
+202400444;2024-07-29;79;4K Monitor;8;€1,693.22;completed;web
+202400995;2024-11-15;37;Smartphone;4;€575.54;Completed;Phone Order
+202400783;2024-06-22;62;Standing Desk;12;€986.12;cancelled;Phone Order
+202400866;2024-01-06;77;Webcam HD;5;€516.73;completed;web
+202400692;2024-09-21;33;Cable Kit;13;€1,846.67;SHIPPED;Phone Order
+202400305;2024-07-11;73;Smartphone;5;€860.49;completed;mobile
+202400342;2024-12-06;7;Wireless Mouse;-2;€909.26;completed;Phone Order
+202400887;2024-06-15;66;Webcam HD;5;€972.54;completed;Phone Order
+202400314;2024-07-03;23;Cable Kit;6;€1,631.63;Completed;In-Store
+202400150;2024-05-03;6;USB-C Hub;1;€924.62;completed;mobile
+202400125;2024-05-06;30;Mechanical Keyboard;7;€1,207.16;completed;mobile
+202401074;2024-12-27;37;USB-C Hub;13;€1,615.90;completed;web
+202400575;2024-04-05;72;Docking Station;13;€30.72;completed;web
+202400698;2024-02-28;8;Office Chair;5;€1,659.71;completed;Phone Order
+202400665;2024-06-27;25;Webcam HD;1;€476.84;refunded;In-Store
+202400051;2024-05-02;26;Wireless Mouse;12;€1,252.96;completed;Phone Order
+202400727;2024-03-20;6;Docking Station;13;€1,604.65;completed;web
+202400800;2024-11-03;6;Tablet;1;€1,816.31;completed;web
+202400834;2024-04-15;4;Wireless Mouse;8;€1,818.74;shipped;web
+202400354;2024-11-30;71;Cable Kit;9;€1,021.95;completed;mobile
+202401164;2024-05-08;24;Headset;11;€247.47;completed;Phone Order
+202400143;2024-12-16;1;Laptop Pro;9;€1,634.56;completed;Phone Order
+202400471;2024-07-25;16;Docking Station;3;€255.40;completed;web
+202400654;2024-02-04;13;Tablet;0;€1,563.62;cancelled;web
+202400400;2024-09-09;65;Wireless Mouse;13;€885.25;Completed;web
+202400919;2024-01-30;13;Smartphone;7;€1,854.00;cancelled;web
+202400937;2024-09-19;50;Webcam HD;12;€50.39;pending;Phone Order
+202400321;2024-03-03;47; Laptop Pro ;3;€503.81;completed;mobile
+202400020;2024-05-22;55;Cable Kit;13;€1,794.06;completed;mobile
+202400685;2024-10-31;41;Standing Desk;8;€1,352.45;Completed;mobile
+202400036;2024-05-25;36;Smartphone;3;€504.46;completed;web
+202400825;2024-04-30;46;USB-C Hub;11;€1,615.86;Completed;Phone Order
+202400506;2024-06-10;5;4K Monitor;7;€111.22;shipped;Phone Order
+202400828;2024-10-08;52;Laptop Pro;6;€249.57;SHIPPED;Phone Order
+202401082;2024-11-17;11;Power Bank;2;€1,539.44;completed;Phone Order
+202400408;2024-03-21;51;Docking Station;1;€1,218.99;completed;Phone Order
+202400818;2024-07-29;42;Tablet;6;€1,587.33;cancelled;Phone Order
+202400538;2024-12-18;37;Cable Kit;10;€1,445.69;completed;web
+202400759;2024-01-11;33; Tablet ;10;€1,750.52;completed;web
+202401080;2024-12-02;9;USB-C Hub;4;€1,675.95;completed;Phone Order
+202400975;2024-08-28;3;Webcam HD;8;€1,213.27;pending;web
+202400039;2024-07-08;3;Tablet;8;€1,856.10;Completed;web
+202400176;2024-04-02;25; Webcam HD ;12;€1,963.79;cancelled;mobile
+202400246;2024-07-14;22;Smartphone;11;€706.66;cancelled;web
+202400811;2024-11-13;29;USB-C Hub;5;€1,569.55;completed;Phone Order
+;;;;;;;
+202400985;2024-01-16;9;Webcam HD;1;€1,186.02;shipped;Phone Order
+202400785;2024-06-10;38;Wireless Mouse;6;€1,483.22;completed;Phone Order
+202401197;2024-01-03;23;USB-C Hub;12;€1,013.61;completed;web
+202400490;2024-12-20;1;Cable Kit;6;€1,965.29;completed;In-Store
+202400155;2024-02-21;4;Webcam HD;3;€1,394.14;completed;mobile
+202400639;2024-08-02;57;USB-C Hub;5;€1,763.35;completed;mobile
+202400663;2024-04-16;30;Office Chair;1;€854.57;completed;In-Store
+202400854;2024-05-19;47;Office Chair;8;€1,955.77;Completed;web
+202400288;2024-05-26;44;Standing Desk;6;€295.22;completed;web
+202400626;2024-07-05;59;Standing Desk;3;€439.52;pending;mobile
+202401138;2024-06-26;64;Smartphone;5;€188.03;completed;In-Store
+202400686;2024-06-14;26; Laptop Pro ;6;€1,976.91;cancelled;In-Store
+202401028;2024-08-20;74;Office Chair;12;€1,614.03;pending;mobile
+202400893;2024-03-01;13;Smartphone;2;€1,487.35;refunded;web
+202400570;2024-09-01;70; Docking Station ;1;€1,538.28;cancelled;In-Store
+202401177;2024-05-23;79; Laptop Pro ;10;€398.26;pending;Phone Order
+202400735;2024-08-22;32;Wireless Mouse;1;€991.76;pending;mobile
+202400793;2024-10-20;48;Laptop Pro;1;€1,536.46;cancelled;web
+202400018;2024-07-26;78;Webcam HD;9;€578.49;shipped;web
+202400128;2024-09-09;34; USB-C Hub ;14;€1,835.33;completed;web
+202400323;2024-12-19;48;4K Monitor;3;€90.94;completed;web
+202400256;2024-11-23;18;Headset;12;€986.17;pending;web
+202400965;2024-06-26;75;Headset;8;€229.00;Completed;web
+202401191;2024-06-10;43;Cable Kit;11;€654.65;completed;mobile
+202400191;2024-01-22;26;Tablet;8;€424.54;completed;mobile
+202400116;2024-04-17;15;Docking Station;7;€873.50;completed;mobile
+202401194;2024-02-21;75; USB-C Hub ;12;€889.82;pending;mobile
+202400910;2024-01-10;59;Smartphone;10;€326.71;completed;web
+202400607;2024-01-06;16;Power Bank;8;€1,388.84;cancelled;In-Store
+202400181;2024-02-24;15; Mechanical Keyboard ;9;€42.54;completed;mobile
+202400302;2024-05-11;78;Standing Desk;14;€1,205.70;pending;In-Store
+202400497;2024-12-04;10;Office Chair;7;€955.56;shipped;web
+202400349;2024-11-21;27;Headset;9;€1,811.20;Cancelled;web
+202401047;2024-04-07;5;Webcam HD;-1;€183.68;completed;web
+202401006;2024-10-04;56;Desk Lamp;8;€743.27;Completed;web
+202400745;2024-10-18;73;Smartphone;12;€1,760.04;completed;Phone Order
+202401093;2024-08-11;75;Mechanical Keyboard;9;€45.65;refunded;web
+202400978;2024-10-06;77;Wireless Mouse;9;€1,528.52;refunded;In-Store
+202400518;2024-08-11;47; Mechanical Keyboard ;12;€415.88;refunded;In-Store
+202400373;2024-05-12;49;Smartphone;7;€122.32;pending;web
+202400046;2024-04-26;63;Standing Desk;6;€1,102.20;completed;In-Store
+202400477;2024-08-02;22; Cable Kit ;9;€1,240.69;cancelled;web
+202400158;2024-02-17;71;Cable Kit;12;€1,062.09;completed;web
+202401058;2024-09-23;38;Standing Desk;3;€545.65;completed;In-Store
+202400172;2024-05-08;11;Standing Desk;10;€1,458.65;completed;web
+202400017;2024-08-02;5;Webcam HD;8;€136.89;completed;In-Store
+202400512;2024-08-11;73;Webcam HD;2;€1,009.90;completed;web
+202400049;2024-04-22;3;Headset;2;€754.31;completed;mobile
+202400192;2024-07-22;1;Office Chair;7;€251.72;completed;mobile
+202400547;2024-02-18;12;Docking Station;9;€374.38;completed;In-Store
+202400516;2024-03-30;72;USB-C Hub;13;€901.86;Completed;web
+202401001;2024-12-29;23;4K Monitor;1;€202.56;Completed;mobile
+202400960;2024-04-07;31;Cable Kit;14;€202.78;completed;web
+202400829;2024-04-08;80;Docking Station;14;€1,412.85;completed;mobile
+202401007;2024-10-01;3;Cable Kit;4;€1,745.23;cancelled;web
+202400481;2024-12-27;35;Cable Kit;14;€1,397.43;refunded;mobile
+202401140;2024-09-19;40;Office Chair;9;€303.68;shipped;mobile
+202400284;2024-10-01;32;Desk Lamp;10;€1,278.12;pending;web
+202401041;2024-06-22;70;Webcam HD;7;€1,419.29;completed;In-Store
+202400798;2024-03-21;34;Laptop Pro;1;€1,633.34;completed;web
+202401158;2024-10-05;49;Power Bank;5;€1,172.19;refunded;web
+202400226;2024-01-21;33;4K Monitor;6;€1,321.75;completed;mobile
+202400027;2024-04-28;13;Smartphone;11;€770.41;refunded;web
+202400283;2024-09-05;27;USB-C Hub;14;€1,271.80;shipped;Phone Order
+202401161;2024-03-16;65; Power Bank ;10;€846.42;shipped;In-Store
+202400438;2024-02-09;47;4K Monitor;4;€1,578.94;Cancelled;web
+202401179;2024-05-28;73;Laptop Pro;8;€566.08;completed;web
+202400365;2024-05-26;67;Tablet;11;€792.29;completed;Phone Order
+202400230;2024-09-04;72;Desk Lamp;1;€808.24;cancelled;web
+202400038;2024-08-06;77;Smartphone;8;€1,947.21;completed;In-Store
+202400670;2024-04-10;71;Desk Lamp;13;€940.92;pending;Phone Order
+202400750;2024-04-28;34;Cable Kit;-1;€626.49;pending;mobile
+202401192;2024-11-23;38;Headset;3;€1,300.21;shipped;web
+202400375;2024-04-11;8; Standing Desk ;12;€1,259.63;completed;mobile
+202400470;2024-06-27;79;Mechanical Keyboard;9;€203.53;completed;In-Store
+202400883;2024-11-20;40;Laptop Pro;11;€1,723.98;completed;In-Store
+202401193;2024-01-24;70;Docking Station;6;€1,982.41;Pending ;web
+202400688;2024-02-19;12;Mechanical Keyboard;4;€1,242.78;completed;In-Store
+202400033;2024-08-18;29;Mechanical Keyboard;2;€1,502.22;pending;In-Store
+202400640;2024-07-14;35;4K Monitor;11;€710.44;completed;mobile
+202401050;2024-07-05;54;Tablet;13;€1,310.11;Cancelled;mobile
+202400195;2024-07-02;68;Webcam HD;10;€1,284.71;completed;web
+202401117;2024-12-25;43;Smartphone;8;€234.26;shipped;mobile
+202401125;2024-06-20;32;Office Chair;6;€974.86;SHIPPED;web
+202400974;2024-05-29;44;Power Bank;2;€1,394.73;shipped;web
+202400504;2024-07-16;13; Laptop Pro ;1;€1,449.16;completed;In-Store
+202400916;2024-04-09;6;Office Chair;10;€358.62;completed;web
+202401000;2024-11-08;19;Power Bank;9;€421.35;pending;mobile
+202401195;2024-06-27;35;4K Monitor;-1;€1,222.38;completed;In-Store
+202401099;2024-06-04;38;Standing Desk;9;€1,829.81;completed;mobile
+202400801;2024-04-04;4;Cable Kit;8;€1,520.86;cancelled;In-Store
+202400580;2024-07-26;50;Headset;9;€1,578.40;completed;mobile
+202400161;2024-01-06;60;Cable Kit;12;€923.36;SHIPPED;web
+202400681;2024-11-08;14;Smartphone;10;€1,715.38;refunded;In-Store
+202400957;2024-02-04;49;Power Bank;2;€508.74;completed;mobile
+202401142;2024-09-27;47;4K Monitor;4;€1,433.49;completed;web
+202400163;2024-06-03;19;Power Bank;10;€1,057.10;completed;In-Store
+202400822;2024-09-30;11;Office Chair;12;€475.39;completed;web
+202400706;2024-01-14;4;Webcam HD;13;€1,747.19;completed;web
+202401102;2024-12-23;55;Standing Desk;4;€1,690.47;cancelled;web
+202400878;2024-04-27;51;Headset;14;€1,165.12;completed;mobile
+202400896;2024-07-02;73;4K Monitor;12;€595.25;refunded;web
+202400914;2024-12-30;78;4K Monitor;1;€1,480.19;pending;web
+;;;;;;;
+202400153;2024-07-17;20;Wireless Mouse;12;€1,145.09;completed;web
+202401002;2024-04-20;56;Desk Lamp;2;€784.64;completed;web
+202401157;2024-11-08;62;Power Bank;8;€1,671.91;shipped;Phone Order
+202400510;2024-08-28;18;Docking Station;5;€948.11;completed;web
+202400112;2024-09-09;24;Mechanical Keyboard;6;€507.23;refunded;web
+202400227;2024-07-17;8;4K Monitor;3;€1,134.14;completed;Phone Order
+202401009;2024-05-26;78;Standing Desk;13;€359.62;cancelled;web
+202400852;2024-06-23;58;Headset;8;€847.68;completed;mobile
+202400104;2024-01-31;63;Desk Lamp;9;€547.70;completed;mobile
+202400422;2024-11-11;79;Mechanical Keyboard;10;€1,982.38;completed;mobile
+202400420;2024-07-23;67;Laptop Pro;5;€212.34;completed;mobile
+202400968;2024-11-16;2;Headset;13;€1,691.79;completed;mobile
+202400625;2024-10-12;66;Docking Station;1;€493.91;cancelled;Phone Order
+202400587;2024-09-25;8;Docking Station;14;€279.33;shipped;web
+202401112;2024-06-29;41;Desk Lamp;12;€158.04;shipped;In-Store
+202400920;2024-06-24;76;Headset;13;€164.04;completed;Phone Order
+202400673;2024-03-25;35;Cable Kit;10;€1,543.09;cancelled;mobile
+202400120;2024-08-12;71; USB-C Hub ;12;€633.46;Cancelled;web
+202400054;2024-05-03;65;Webcam HD;7;€541.58;completed;web
+202400152;2024-06-21;13;Standing Desk;6;€1,635.38;completed;mobile
+202400404;2024-12-21;38;Mechanical Keyboard;8;€142.41;shipped;web
+;;;;;;;
+202400208;2024-04-08;62;Office Chair;2;€1,718.48;completed;web
+202401146;2024-06-29;47; Laptop Pro ;9;€758.78;completed;Phone Order
+202400659;2024-01-26;45;Laptop Pro;12;€713.08;completed;web
+202401108;2024-05-05;22;USB-C Hub;7;€1,961.37;Completed;web
+202400233;2024-03-11;46;Desk Lamp;6;€705.13;cancelled;web
+202400009;2024-12-06;6;USB-C Hub;5;€1,516.16;completed;mobile
+202400160;2024-12-01;74;Office Chair;2;€1,872.99;completed;In-Store
+202400037;2024-10-14;79;Tablet;13;€1,914.73;completed;In-Store
+202400453;2024-06-28;37; Laptop Pro ;1;€470.07;completed;mobile
+202400652;2024-01-21;62;Wireless Mouse;4;€877.59;SHIPPED;Phone Order
+202400254;2024-03-29;71;Power Bank;4;€273.69;completed;Phone Order
+202400304;2024-07-15;12;Headset;4;€1,365.93;completed;mobile
+202400897;2024-12-28;78;Mechanical Keyboard;6;€1,261.11;cancelled;In-Store
+202401187;2024-06-03;64;Wireless Mouse;1;€1,845.61;completed;mobile
+202400881;2024-11-12;75;Headset;3;€144.53;cancelled;mobile
+202400572;2024-07-06;7;Power Bank;12;€1,913.98;pending;mobile
+202401012;2024-12-13;56;USB-C Hub;9;€339.86;completed;web
+202400624;2024-12-25;52;Desk Lamp;2;€688.05;pending;mobile
+202400346;2024-12-24;76;Mechanical Keyboard;8;€217.91;Completed;mobile
+202401042;2024-10-26;36;Office Chair;2;€1,284.99;completed;mobile
+202401037;2024-12-05;28;4K Monitor;12;€1,966.88;Completed;Phone Order
+202400263;2024-09-07;7; Standing Desk ;6;€1,078.21;completed;mobile
+202400611;2024-06-24;67;Smartphone;12;€1,651.51;completed;web
+202400298;2024-12-17;40; Office Chair ;5;€521.72;completed;mobile
+202400990;2024-09-11;78;Laptop Pro;11;€68.87;completed;web
+202400415;2024-01-20;10;Tablet;7;€963.16;Completed;Phone Order
+202400151;2024-01-08;66;Power Bank;2;€304.22;refunded;mobile
+202400473;2024-04-09;21;Office Chair;4;€1,481.00;shipped;In-Store
+202400641;2024-12-26;13;Headset;8;€1,559.60;cancelled;In-Store
+;;;;;;;
+202401141;2024-02-17;51;Tablet;9;€1,492.89;refunded;In-Store
+202400551;2024-03-04;27;Standing Desk;1;€1,807.02;cancelled;Phone Order
+202400929;2024-10-21;21;Cable Kit;11;€1,928.82;pending;mobile
+202400489;2024-05-19;31; Office Chair ;3;€1,382.47;pending;In-Store
+202401092;2024-10-15;43;Headset;2;€132.61;Completed;web
+202400147;2024-05-13;24;Standing Desk;12;€1,510.11;completed;In-Store
+202400403;2024-09-20;51;Webcam HD;7;€1,460.31;pending;web
+202400955;2024-07-30;70; Smartphone ;2;€1,498.68;completed;web
+202401136;2024-01-16;71;Power Bank;4;€1,794.23;Completed;web
+202400660;2024-09-26;59; Smartphone ;-1;€537.41;cancelled;web
+202400464;2024-10-28;69;Office Chair;4;€1,193.09;completed;web
+202400187;2024-06-22;70;Office Chair;12;€1,974.01;shipped;Phone Order
+202400609;2024-08-05;72;Mechanical Keyboard;3;€541.26;completed;mobile
+202400144;2024-03-13;15;Headset;9;€1,016.80;completed;mobile
+202400752;2024-09-22;28;Office Chair;13;€474.12;pending;web
+202400982;2024-03-18;61;Docking Station;12;€1,172.67;shipped;mobile
+202400198;2024-07-28;34;Cable Kit;0;€245.94;completed;mobile
+202400884;2024-09-15;60;Smartphone;1;€1,727.12;refunded;mobile
+202400280;2024-02-18;73;4K Monitor;3;€809.44;pending;web
+202400294;2024-07-14;55; Laptop Pro ;9;€1,150.54;completed;mobile
+202401100;2024-02-08;40; Tablet ;8;€60.95;shipped;web
+202400401;2024-03-31;2; Webcam HD ;13;€695.65;cancelled;mobile
+202400123;2024-06-15;68;Power Bank;5;€651.08;refunded;In-Store
+202400203;2024-08-15;37;USB-C Hub;1;€235.06;completed;mobile
+202400836;2024-05-27;12;Desk Lamp;3;€90.37;completed;Phone Order
+202400247;2024-08-11;47;Power Bank;11;€1,451.16;completed;web
+202401151;2024-09-15;80;Mechanical Keyboard;11;€1,804.97;Completed;mobile
+202400385;2024-06-08;16;Docking Station;7;€467.99;completed;Phone Order
+202400855;2024-07-01;77;Tablet;14;€1,219.08;completed;Phone Order
+202400220;2024-05-14;21;Headset;2;€1,932.43;cancelled;web
+202400642;2024-08-25;36;Office Chair;13;€1,056.39;completed;mobile
+202400002;2024-01-04;6;Webcam HD;11;€851.37;completed;web
+202400113;2024-12-02;35; Laptop Pro ;8;€1,894.83;refunded;mobile
+202400699;2024-06-17;62;Cable Kit;7;€332.63;refunded;Phone Order
+202400952;2024-10-17;59;Wireless Mouse;3;€65.61;completed;web
+202401090;2024-01-26;74;Webcam HD;6;€1,594.56;completed;mobile
+202400442;2024-03-26;26;4K Monitor;12;€815.71;completed;Phone Order
+202400664;2024-10-02;44;Power Bank;4;€477.46;completed;In-Store
+202401107;2024-03-19;40;Smartphone;7;€1,342.31;completed;web
+202400318;2024-09-19;72;Headset;12;€1,260.79;Completed;web
+202400649;2024-01-31;61;Wireless Mouse;8;€1,836.95;completed;web
+202400710;2024-07-19;37;Docking Station;13;€91.95;cancelled;web
+202400973;2024-04-20;48;Power Bank;7;€1,247.77;Pending ;mobile
+202400628;2024-12-25;34;Wireless Mouse;9;€962.44;refunded;web
+202400633;2024-12-14;45;Laptop Pro;10;€1,461.44;shipped;In-Store
+202401183;2024-02-18;7;USB-C Hub;9;€1,030.04;Pending ;web
+202401118;2024-09-14;57;4K Monitor;9;€454.76;completed;mobile
+202400796;2024-06-20;48;Docking Station;1;€921.14;completed;mobile
+202400646;2024-04-20;63;Mechanical Keyboard;6;€528.85;completed;mobile
+202401013;2024-02-06;38;Desk Lamp;6;€1,769.26;Completed;web
+202400557;2024-09-22;80;Laptop Pro;2;€1,342.28;completed;web
+202400682;2024-05-29;21;Office Chair;11;€1,419.52;completed;mobile
+202400578;2024-09-07;8;Mechanical Keyboard;2;€403.93;completed;web
+202400525;2024-11-12;47;USB-C Hub;9;€1,412.08;cancelled;Phone Order
+202401060;2024-05-20;65;Laptop Pro;8;€1,514.87;refunded;web
+202400541;2024-01-12;46;Headset;8;€688.93;completed;mobile
+202400749;2024-08-11;42;Power Bank;8;€1,346.86;completed;web
+202401121;2024-02-17;49;Power Bank;5;€1,637.30;completed;mobile
+202400485;2024-02-09;38;Cable Kit;1;€920.72;completed;web
+202400096;2024-08-06;46;Mechanical Keyboard;2;€929.25;completed;Phone Order
+202401021;2024-10-13;13;4K Monitor;7;€1,238.49;Cancelled;In-Store
+202400564;2024-06-05;8;Smartphone;8;€910.84;refunded;In-Store
+202400743;2024-03-26;12;Laptop Pro;8;€1,523.14;shipped;In-Store
+202400864;2024-09-06;23;Office Chair;2;€1,999.23;Pending ;Phone Order
+202400892;2024-07-31;72;Office Chair;8;€1,208.85;pending;web
+202401039;2024-09-30;39;4K Monitor;13;€1,384.72;Completed;mobile
+202400207;2024-11-24;53;Headset;14;€953.84;cancelled;web
+202400393;2024-09-08;9;Standing Desk;1;€1,385.98;completed;web
+202400795;2024-12-28;63; Headset ;14;€1,251.17;shipped;In-Store
+202400871;2024-09-02;65;4K Monitor;1;€1,169.45;pending;Phone Order
+202400398;2024-09-12;31;Docking Station;-1;€1,004.92;cancelled;In-Store
+202400767;2024-06-18;44;Smartphone;4;€1,301.12;shipped;Phone Order
+202401111;2024-07-10;15;Power Bank;10;€594.64;completed;web
+202401029;2024-12-18;70;Mechanical Keyboard;13;€404.90;completed;web
+202400643;2024-08-23;5;Desk Lamp;12;€912.93;Completed;In-Store
+202400613;2024-03-23;76;USB-C Hub;2;€1,206.82;completed;Phone Order
+202400961;2024-01-20;14;Power Bank;12;€376.89;completed;web
+202400726;2024-07-05;4;Smartphone;13;€714.40;pending;mobile
+202400684;2024-08-21;11;Wireless Mouse;9;€738.16;completed;web
+202400099;2024-02-13;31;4K Monitor;7;€428.76;pending;In-Store
+202400805;2024-02-17;17;4K Monitor;7;€808.67;completed;web
+202400407;2024-10-27;30;Cable Kit;7;€1,289.86;completed;Phone Order
+202400503;2024-05-26;9;Laptop Pro;13;€1,189.32;completed;mobile
+202401072;2024-07-19;59;Mechanical Keyboard;6;€1,155.29;pending;web
+202401057;2024-03-24;41;Mechanical Keyboard;12;€1,586.87;cancelled;Phone Order
+202400930;2024-11-10;74;Tablet;9;€880.10;completed;In-Store
+202400780;2024-06-28;61;4K Monitor;2;€1,483.10;completed;web
+202400201;2024-01-22;77; Power Bank ;6;€954.11;shipped;web
+202400135;2024-08-24;74;Docking Station;7;€100.34;Pending ;web
+202401052;2024-05-29;6;Office Chair;3;€1,398.02;completed;Phone Order
+202400041;2024-03-30;26;Headset;12;€815.14;shipped;web
+202401018;2024-09-02;79;Webcam HD;4;€1,096.02;cancelled;mobile
+202400231;2024-10-23;23;Desk Lamp;3;€1,762.93;completed;mobile
+202400379;2024-08-25;77;Cable Kit;13;€1,560.87;refunded;mobile
+202400289;2024-04-30;2;Tablet;10;€1,163.42;completed;web
+202400419;2024-08-26;57;Standing Desk;7;€1,587.88;cancelled;web
+202400392;2024-11-16;31;Office Chair;10;€377.29;cancelled;mobile
+202400593;2024-08-09;20;Mechanical Keyboard;4;€1,027.87;completed;Phone Order
+202401087;2024-08-27;18;Power Bank;7;€880.38;Completed;mobile
+202400648;2024-09-27;32;USB-C Hub;9;€1,804.77;cancelled;In-Store
+202400521;2024-08-18;8;USB-C Hub;4;€1,279.61;completed;In-Store
+202400065;2024-07-20;43;Wireless Mouse;7;€1,422.72;cancelled;web
+202400015;2024-05-30;6;Smartphone;3;€1,508.27;completed;web
+202401065;2024-07-07;4;Tablet;3;€439.64;cancelled;web
+202400493;2024-03-07;56;Office Chair;9;€793.52;completed;mobile
+202400380;2024-03-30;1;Laptop Pro;5;€1,607.79;cancelled;mobile
+202400188;2024-03-28;46;4K Monitor;14;€335.19;completed;mobile
+202400764;2024-10-27;58;Headset;9;€1,778.20;completed;mobile
+202400217;2024-11-01;12; USB-C Hub ;4;€542.04;pending;web
+202400792;2024-05-16;79; USB-C Hub ;4;€1,469.36;completed;web
+202401077;2024-06-20;80;Smartphone;14;€59.94;completed;web
+202400879;2024-11-13;2;Office Chair;4;€1,033.65;completed;web
+202400338;2024-02-22;10;Power Bank;10;€539.10;completed;mobile
+202400720;2024-10-25;2;Desk Lamp;7;€1,502.66;completed;web
+202400296;2024-10-23;52;Wireless Mouse;11;€1,528.55;completed;mobile
+202401017;2024-01-29;64;Standing Desk;8;€1,415.75;pending;Phone Order
+202400456;2024-12-18;64;4K Monitor;2;€788.53;pending;Phone Order
+202400816;2024-06-22;37;Laptop Pro;3;€1,492.82;completed;mobile
+202400270;2024-04-30;1;4K Monitor;12;€462.24;completed;mobile
+202400996;2024-07-27;14;Wireless Mouse;4;€1,779.03;completed;Phone Order
+202400202;2024-05-04;54;Standing Desk;13;€299.97;completed;web
+202400162;2024-10-31;52;Laptop Pro;9;€374.19;completed;mobile
+202400730;2024-08-02;20;Office Chair;9;€1,763.72;Completed;web
+202400402;2024-11-11;6; USB-C Hub ;5;€66.72;completed;mobile
+202400703;2024-07-16;34;Headset;6;€1,786.23;pending;web
+202401130;2024-12-09;43; Laptop Pro ;2;€901.79;completed;mobile
+202400566;2024-01-25;3; Headset ;1;€318.28;Completed;mobile
+202401022;2024-02-24;15;Webcam HD;-1;€1,114.25;pending;mobile
+202401026;2024-05-29;46;Wireless Mouse;9;€295.80;Completed;web
+202401105;2024-07-04;64;Tablet;0;€870.23;Cancelled;mobile
+202400206;2024-11-03;53;Wireless Mouse;8;€1,665.77;pending;web
+202400035;2024-03-18;42;Smartphone;4;€1,131.39;Completed;mobile
+202400776;2024-08-27;41;Tablet;1;€1,998.42;completed;mobile
+202400509;2024-12-26;55;Docking Station;1;€1,872.61;completed;mobile
+202401196;2024-01-29;79; Tablet ;12;€1,870.10;pending;web
+202400092;2024-04-23;1;Tablet;1;€1,709.72;SHIPPED;web
+202400898;2024-09-12;79; Headset ;1;€834.69;completed;Phone Order
+202400565;2024-07-03;49;Smartphone;9;€305.48;shipped;web
+202400777;2024-01-10;77;USB-C Hub;3;€317.44;pending;mobile
+202400242;2024-12-02;59;Wireless Mouse;1;€666.81;completed;In-Store
+202400014;2024-08-19;14;Docking Station;8;€1,350.40;completed;mobile
+202400316;2024-10-14;29;Wireless Mouse;12;€455.88;completed;web
+202400601;2024-01-03;67;USB-C Hub;7;€330.45;shipped;In-Store
+202400388;2024-02-29;14;Office Chair;4;€594.97;pending;web
+202400167;2024-02-17;79;Standing Desk;4;€58.39;SHIPPED;web
+202400841;2024-01-13;13;Standing Desk;3;€732.59;Pending ;mobile
+202400021;2024-01-14;64;Laptop Pro;4;€472.40;completed;mobile
+202400647;2024-10-09;31;Laptop Pro;14;€133.71;refunded;In-Store
+202401155;2024-08-08;6; Tablet ;-1;€1,408.53;completed;In-Store
+202400832;2024-02-27;54;Desk Lamp;-2;€462.00;completed;mobile
+202400563;2024-10-12;12;Office Chair;7;€1,394.24;cancelled;web
+202401182;2024-08-02;39;Headset;4;€1,445.33;completed;web
+202400687;2024-04-14;56;Docking Station;13;€321.66;pending;web
+202400958;2024-04-30;34;Headset;8;€1,887.39;completed;web
+202400190;2024-02-14;6;Docking Station;8;€462.72;completed;mobile
+202400976;2024-01-14;74;Laptop Pro;2;€789.91;pending;web
+202400700;2024-11-09;39;Power Bank;14;€1,274.44;Completed;Phone Order
+202400511;2024-05-18;75; USB-C Hub ;4;€244.27;completed;mobile
+202401083;2024-02-11;38;USB-C Hub;11;€1,473.69;pending;mobile
+202400475;2024-12-27;7;Power Bank;7;€278.57;Pending ;In-Store
+202400857;2024-02-11;21;Headset;2;€264.79;completed;web
+202400748;2024-06-23;74;Webcam HD;5;€1,407.98;completed;mobile
+202400253;2024-06-14;63;Mechanical Keyboard;8;€1,295.67;completed;web
+202400022;2024-10-25;17;Smartphone;2;€1,124.97;completed;web
+202400460;2024-12-11;3;Docking Station;9;€825.13;completed;web
+202401185;2024-03-21;26;Tablet;9;€1,464.37;shipped;web
+202400277;2024-02-28;53;Standing Desk;6;€1,592.58;Completed;Phone Order
+202400956;2024-04-10;68;Tablet;14;€1,409.13;shipped;In-Store
+202400386;2024-03-16;37;Webcam HD;7;€507.44;completed;web
+202400806;2024-10-09;68;Desk Lamp;8;€1,796.79;cancelled;web
+202400344;2024-06-28;19;USB-C Hub;9;€464.09;completed;In-Store
+202400770;2024-02-26;61;Standing Desk;4;€1,177.93;Cancelled;web
+202400131;2024-09-19;49;Wireless Mouse;8;€1,544.58;completed;web
+202400872;2024-11-29;65;Wireless Mouse;8;€482.07;Pending ;mobile
+202401124;2024-11-16;36; Cable Kit ;10;€1,988.99;shipped;Phone Order
+202400088;2024-01-28;63;Office Chair;7;€1,776.62;completed;Phone Order
+202400331;2024-04-02;1;Webcam HD;7;€749.39;completed;In-Store
+202400467;2024-10-20;24;Headset;14;€1,351.84;pending;web
+202400122;2024-02-19;20;4K Monitor;1;€1,139.65;completed;web
+202401045;2024-02-10;16;USB-C Hub;9;€1,169.42;cancelled;mobile
+202401096;2024-11-18;28;4K Monitor;10;€1,686.70;cancelled;web
+202401131;2024-08-14;50; Desk Lamp ;11;€407.62;Completed;web
+202400861;2024-01-08;49;Desk Lamp;2;€1,758.16;refunded;web
+202401127;2024-12-30;42;Webcam HD;9;€778.73;refunded;web
